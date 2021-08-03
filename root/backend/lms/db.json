@@ -1,0 +1,6947 @@
+[
+{
+    "model": "sessions.session",
+    "pk": "b0kc1zm0chm0bu4g9t5rwmung9hx77iw",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGln-ZY0p6XMGa71e4wBKpDipEHcHSymgfTPzXiLivtW4N17jlMVFKG2UDsooI06_MCE9eO5GvuN8WyQt87ZOSXZFHrTJccn8vB7u30HFVr81Wm-ZMGgo7LE4GEqxfUO0oJ1iIE9p8OhKIuZsCMw5OF_AB0gOxPsDUIk6OA:1m4QQM:jnpY4AcdThL2a3bHPqa98mz3tnzTYJEpQx2HCaZQd5U",
+        "expire_date": "2021-07-30T16:10:50.639Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "gcuapds4hulw8swsvzbfb3bfu07mi5yt",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGln-ZY0p6XMGa71e4wBKpDipEHcHSymgfTPzXiLivtW4N17jlMVFKG2UDsooI06_MCE9eO5GvuN8WyQt87ZOSXZFHrTJccn8vB7u30HFVr81Wm-ZMGgo7LE4GEqxfUO0oJ1iIE9p8OhKIuZsCMw5OF_AB0gOxPsDUIk6OA:1m3LfY:LjurEpuz8ieLjb2Po-NWEXm3B2pTKs4FbuR1DWMzJGQ",
+        "expire_date": "2021-07-27T16:54:04.056Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "yeedetplrmrow7bg6wgbg22fa8mmu5ed",
+    "fields": {
+        "session_data": ".eJxVzLsOwjAMheF3yYwi201Tl5GdZ6icOCEFlEq9TIh3h0odYP6_c15mkG0tw7akeRjVnA0gAfbQIJnTbwwSH6nuQu9Sb5ONU13nMdid2KMu9jppel4O-3dQZCnfNXsfRSJph5wdC7LHgALBMUGT2uyZ2XHOSNQrIBIrtSBOsRGXOvP-AB5fOMg:1m3L5S:rHOYQwMApAJOpkpv7gEkHEUI7OxVkk08TzkSZ-9LWbQ",
+        "expire_date": "2021-07-27T16:16:46.744Z"
+    }
+},
+{
+    "model": "assignment.assignment",
+    "pk": "3b069897-31e9-4419-ba7c-dff6a22af743",
+    "fields": {
+        "title": "Assignment 3",
+        "description": "This is the third assignment",
+        "min_marks": 15,
+        "max_marks": 50,
+        "post_date": "2021-07-16T16:33:33Z",
+        "due_date": "2021-07-22T00:00:00Z"
+    }
+},
+{
+    "model": "assignment.assignment",
+    "pk": "9f1ca770-c1e1-4ad8-bbfa-f4cc0e5b4173",
+    "fields": {
+        "title": "Railway Management",
+        "description": "sdfghjk",
+        "min_marks": 89,
+        "max_marks": 90,
+        "post_date": "2021-07-15T00:53:00Z",
+        "due_date": "2021-07-13T00:53:00Z"
+    }
+},
+{
+    "model": "assignment.assignment",
+    "pk": "c758c318-0fab-4a9b-aa1f-b10541660808",
+    "fields": {
+        "title": "Assignment 1",
+        "description": "This is the first assignment.",
+        "min_marks": 5,
+        "max_marks": 25,
+        "post_date": "2021-07-16T16:29:31Z",
+        "due_date": "2021-07-30T16:32:34Z"
+    }
+},
+{
+    "model": "assignment.assignment",
+    "pk": "d3c3d3be-2b22-496a-8ff1-1d9cea9164bd",
+    "fields": {
+        "title": "Assignment 2",
+        "description": "This is the second assignment",
+        "min_marks": 15,
+        "max_marks": 100,
+        "post_date": "2021-07-16T16:32:46Z",
+        "due_date": "2021-07-22T06:00:00Z"
+    }
+},
+{
+    "model": "assignment.assignment",
+    "pk": "e4eb4f31-bb4a-491b-bb8d-a62e07385b48",
+    "fields": {
+        "title": "Railway Management",
+        "description": "sdfghjk",
+        "min_marks": 89,
+        "max_marks": 90,
+        "post_date": "2021-07-15T00:53:00Z",
+        "due_date": "2021-07-13T00:53:00Z"
+    }
+},
+{
+    "model": "User.school",
+    "pk": "27cbf0d7-0fc7-43dc-a9ed-bfd55971b72d",
+    "fields": {
+        "school_name": "SMCE"
+    }
+},
+{
+    "model": "User.school",
+    "pk": "3aa3ddbb-5e18-49a5-b9f7-44564994c350",
+    "fields": {
+        "school_name": "SEE"
+    }
+},
+{
+    "model": "User.school",
+    "pk": "89af4ec2-ec12-4128-b263-8115988ae607",
+    "fields": {
+        "school_name": "SHES"
+    }
+},
+{
+    "model": "User.school",
+    "pk": "eaa32a2c-7012-4640-8efc-019ad749183f",
+    "fields": {
+        "school_name": "SCET"
+    }
+},
+{
+    "model": "User.school",
+    "pk": "f2d9ca83-3c2a-4773-9f7d-ac312a82704d",
+    "fields": {
+        "school_name": "SCE"
+    }
+},
+{
+    "model": "User.branch",
+    "pk": "12607327-d269-4ba7-9300-f0064a7d744f",
+    "fields": {
+        "school": "3aa3ddbb-5e18-49a5-b9f7-44564994c350",
+        "branch_name": "Electrical Engineering"
+    }
+},
+{
+    "model": "User.branch",
+    "pk": "1794aac8-79ac-41f7-88b7-fdde8b018d77",
+    "fields": {
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch_name": "Information Technology"
+    }
+},
+{
+    "model": "User.branch",
+    "pk": "1ed2aeae-3fd5-49f3-98f2-084ad1c5dac9",
+    "fields": {
+        "school": "f2d9ca83-3c2a-4773-9f7d-ac312a82704d",
+        "branch_name": "Chemical Engineering"
+    }
+},
+{
+    "model": "User.branch",
+    "pk": "3d21730d-a57f-4c3a-972c-830793949265",
+    "fields": {
+        "school": "3aa3ddbb-5e18-49a5-b9f7-44564994c350",
+        "branch_name": "ENTC"
+    }
+},
+{
+    "model": "User.branch",
+    "pk": "478e93d9-365b-46b9-bf9f-eb7d1f972447",
+    "fields": {
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch_name": "Computer Engineering"
+    }
+},
+{
+    "model": "User.branch",
+    "pk": "48abea60-8ff4-4fc5-a1f4-42a4a0ee6702",
+    "fields": {
+        "school": "27cbf0d7-0fc7-43dc-a9ed-bfd55971b72d",
+        "branch_name": "Civil Engineering"
+    }
+},
+{
+    "model": "User.branch",
+    "pk": "6d0ffdce-559c-474f-ba90-329b63c3971c",
+    "fields": {
+        "school": "27cbf0d7-0fc7-43dc-a9ed-bfd55971b72d",
+        "branch_name": "Mechanical Engineering"
+    }
+},
+{
+    "model": "User.branch",
+    "pk": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe",
+    "fields": {
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch_name": "FY"
+    }
+},
+{
+    "model": "User.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$mrNceHd8CoR08dDhvpKWeY$YyLQNUDXWzCOatVKop0+wLZTgabR4pWSLn6DEbJH+AQ=",
+        "last_login": "2021-07-16T18:14:30.727Z",
+        "f_name": "Vaishnavi",
+        "l_name": "Jadhav",
+        "email": "vaishnavijahav@gmail.com",
+        "staff": true,
+        "is_active": true,
+        "admin": true,
+        "role": 0,
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f"
+    }
+},
+{
+    "model": "User.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$dR94EN5LS0Z8XDDyORwn7i$u/9voqCXeNxIcnyuv5twmpuA9C33apN7nBCtd8pN1Vs=",
+        "last_login": "2021-07-16T18:12:25.204Z",
+        "f_name": "Ranjana",
+        "l_name": "Badre",
+        "email": "vajadhav@mitaoe.ac.in",
+        "staff": true,
+        "is_active": true,
+        "admin": true,
+        "role": 1,
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f"
+    }
+},
+{
+    "model": "User.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$Xi5sQ1j3HUjetesGPt01Ys$/eoYgUKX+w+lRpqJ2ip6hZSrrLStrbHgmfuUYTWe078=",
+        "last_login": "2021-07-16T17:58:09.744Z",
+        "f_name": "Sumit",
+        "l_name": "Mahajan",
+        "email": "ssmahajan@mitaoe.ac.in",
+        "staff": true,
+        "is_active": true,
+        "admin": true,
+        "role": 0,
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f"
+    }
+},
+{
+    "model": "User.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$OXuVb6CPIsOyZo8rnlhP9U$XMdV6/1UnnaE2XLhGZW3him7Rup4qx+zn/Oids8/jM4=",
+        "last_login": null,
+        "f_name": "Lalit",
+        "l_name": "Rajput",
+        "email": "lalit@mitaoe.ac.in",
+        "staff": false,
+        "is_active": true,
+        "admin": false,
+        "role": 0,
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f"
+    }
+},
+{
+    "model": "User.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$giMEPRUPKb8lMyYBuxaqqh$1KgjIqr014KreHlfmIspP0sK0ETHrOq7C9HZ9NgENww=",
+        "last_login": null,
+        "f_name": "Nikhil",
+        "l_name": "Shegokar",
+        "email": "nikhil@mitaoe.ac.in",
+        "staff": false,
+        "is_active": true,
+        "admin": false,
+        "role": 0,
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f"
+    }
+},
+{
+    "model": "User.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$tF7u7VvNT7LmkzN6tnE4fx$APWt3HzwnD9d66hKIdCGiaa879v2CBHeQk5Hlk8O45I=",
+        "last_login": null,
+        "f_name": "Vedantika",
+        "l_name": "Pawar",
+        "email": "vedantika@mitaoe.ac.in",
+        "staff": false,
+        "is_active": true,
+        "admin": false,
+        "role": 0,
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f"
+    }
+},
+{
+    "model": "User.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$DpFlGvvWVqweSCoqC26XOR$lY1SOGp61wQUSx4LUauB09szuQLrzm1NrDg7dixjAjA=",
+        "last_login": null,
+        "f_name": "Praktan",
+        "l_name": "Khatavkar",
+        "email": "prkhatavkar@mitaoe.ac.in",
+        "staff": false,
+        "is_active": true,
+        "admin": false,
+        "role": 0,
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f"
+    }
+},
+{
+    "model": "User.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$iwKZToBluXW1kH2glJNPlc$5DtTljSvVvOQz/BV/sNtDg7ThHcIoE4+/lvJA20iePw=",
+        "last_login": null,
+        "f_name": "Shreyansh",
+        "l_name": "Patil",
+        "email": "shreyansh@mitaoe.ac.in",
+        "staff": false,
+        "is_active": true,
+        "admin": false,
+        "role": 0,
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607"
+    }
+},
+{
+    "model": "User.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$fMypuuJzrUZbeRPhl1LWDt$+t6FEOVUgh6/70SF3FVIO+DSZODq5cOVuBkC3erM54I=",
+        "last_login": null,
+        "f_name": "Sudarshan",
+        "l_name": "Jadhav",
+        "email": "sudarashan@mitaoe.ac.in",
+        "staff": false,
+        "is_active": true,
+        "admin": false,
+        "role": 0,
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607"
+    }
+},
+{
+    "model": "User.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$OvCtU4ydbZlJjnFz2y048K$CBi1EpH/RX62z89bv0GTozy6A7zBLwyK1A8JtNhe2+4=",
+        "last_login": null,
+        "f_name": "Radha",
+        "l_name": "Laturkar",
+        "email": "radha@mitaoe.ac.in",
+        "staff": false,
+        "is_active": true,
+        "admin": false,
+        "role": 0,
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607"
+    }
+},
+{
+    "model": "User.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$NQMV47af3TzlFupk19sV4Y$UNxlD15HXp4c0f3ZL3neD/xKVSZZhKh6TcdxDhL4Kt0=",
+        "last_login": null,
+        "f_name": "Smriti",
+        "l_name": "Singh",
+        "email": "smriti@mitaoe.ac.in",
+        "staff": false,
+        "is_active": true,
+        "admin": false,
+        "role": 0,
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f"
+    }
+},
+{
+    "model": "User.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$dqcXnTtoxlhtcwn381pdwC$huA1wU7/rA0e21I7EHREXEb3XeXivyOe0Za6m+lCk94=",
+        "last_login": null,
+        "f_name": "Diptee",
+        "l_name": "Ghuse",
+        "email": "ghuse@mitaoe.ac.in",
+        "staff": false,
+        "is_active": true,
+        "admin": false,
+        "role": 1,
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f"
+    }
+},
+{
+    "model": "User.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$lJVqkmpF4pyPSPl8CaVT0Z$X6R6f5g3qaJoR+Ea6x7yxM+DE1S6pOUThcunSMW6HTY=",
+        "last_login": null,
+        "f_name": "Amit",
+        "l_name": "Sonavane",
+        "email": "sonavane@mitaoe.ac.in",
+        "staff": false,
+        "is_active": true,
+        "admin": false,
+        "role": 1,
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f"
+    }
+},
+{
+    "model": "User.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$RginfCgOdJaWpQdw9aCrpl$WVAXYfGuNORd9PB2aQYXiVXeCo6e+z+1WPhbZ0TzszE=",
+        "last_login": null,
+        "f_name": "Amar",
+        "l_name": "More",
+        "email": "more@mitaoe.ac.in",
+        "staff": false,
+        "is_active": true,
+        "admin": false,
+        "role": 1,
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f"
+    }
+},
+{
+    "model": "User.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$OQy1bE6QBps1ZXV0Mmj57o$WBpE1eBXjZXQ4tYUVquDkd7ZYeTYk8dwATxIzFp/DmE=",
+        "last_login": null,
+        "f_name": "Mayur",
+        "l_name": "Patil",
+        "email": "mayurpatil@mitaoe.ac.in",
+        "staff": false,
+        "is_active": true,
+        "admin": false,
+        "role": 1,
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f"
+    }
+},
+{
+    "model": "User.user",
+    "fields": {
+        "password": "pbkdf2_sha256$260000$uvttR7DEDqzVFJJdjShERm$mkqwG1SSVxcNW52JJbgbIHYndhXgdaAx9cNrTcY01fk=",
+        "last_login": null,
+        "f_name": "Rudragouda",
+        "l_name": "Patil",
+        "email": "patil@mitaoe.ac.in",
+        "staff": false,
+        "is_active": true,
+        "admin": false,
+        "role": 1,
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f"
+    }
+},
+{
+    "model": "User.semester",
+    "pk": "350742c9-2efb-4b63-b003-66c019e55be2",
+    "fields": {
+        "semester_name": "Semester 7"
+    }
+},
+{
+    "model": "User.semester",
+    "pk": "428cb7b1-83b2-4281-906b-7cde1ce54a1b",
+    "fields": {
+        "semester_name": "Semester 8"
+    }
+},
+{
+    "model": "User.semester",
+    "pk": "5daaa501-f275-41db-a017-9343621c47f1",
+    "fields": {
+        "semester_name": "Semester 1"
+    }
+},
+{
+    "model": "User.semester",
+    "pk": "61d9cfb2-240a-4fa8-849d-03026b3ec3ac",
+    "fields": {
+        "semester_name": "Semester 4"
+    }
+},
+{
+    "model": "User.semester",
+    "pk": "6302b499-b881-41a8-bdc8-5d361aa2deb3",
+    "fields": {
+        "semester_name": "Semester 3"
+    }
+},
+{
+    "model": "User.semester",
+    "pk": "95045feb-0d72-4507-b3e6-ade0546b9234",
+    "fields": {
+        "semester_name": "Semester 5"
+    }
+},
+{
+    "model": "User.semester",
+    "pk": "9e9ea04b-866e-4486-bb2f-cafcea7061d1",
+    "fields": {
+        "semester_name": "Semester 2"
+    }
+},
+{
+    "model": "User.semester",
+    "pk": "ee11f905-3723-4e8d-942b-9e37a1cccf91",
+    "fields": {
+        "semester_name": "Semester 6"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "048c71c8-c16b-4717-886a-6629fa115b02",
+    "fields": {
+        "semester": "6302b499-b881-41a8-bdc8-5d361aa2deb3",
+        "school": "3aa3ddbb-5e18-49a5-b9f7-44564994c350",
+        "branch": "3d21730d-a57f-4c3a-972c-830793949265"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "0bc55ae7-6a71-4044-999d-250ac8edd1f7",
+    "fields": {
+        "semester": "428cb7b1-83b2-4281-906b-7cde1ce54a1b",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "1168820a-3d7e-49c9-879f-fb57b2909f55",
+    "fields": {
+        "semester": "428cb7b1-83b2-4281-906b-7cde1ce54a1b",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "1558ac49-8a2d-4874-b869-bb018dcd4c78",
+    "fields": {
+        "semester": "6302b499-b881-41a8-bdc8-5d361aa2deb3",
+        "school": "27cbf0d7-0fc7-43dc-a9ed-bfd55971b72d",
+        "branch": "6d0ffdce-559c-474f-ba90-329b63c3971c"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "23225fce-71a0-47e6-ad24-b413adc9f33c",
+    "fields": {
+        "semester": "ee11f905-3723-4e8d-942b-9e37a1cccf91",
+        "school": "3aa3ddbb-5e18-49a5-b9f7-44564994c350",
+        "branch": "3d21730d-a57f-4c3a-972c-830793949265"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "26f5fbff-5763-4486-bbe0-5a01ddd363cd",
+    "fields": {
+        "semester": "5daaa501-f275-41db-a017-9343621c47f1",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "2b3297d4-4254-4d90-b9f1-36d9c9656991",
+    "fields": {
+        "semester": "95045feb-0d72-4507-b3e6-ade0546b9234",
+        "school": "3aa3ddbb-5e18-49a5-b9f7-44564994c350",
+        "branch": "3d21730d-a57f-4c3a-972c-830793949265"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "316f240d-30a8-4699-ac0e-12c8794b05e6",
+    "fields": {
+        "semester": "ee11f905-3723-4e8d-942b-9e37a1cccf91",
+        "school": "3aa3ddbb-5e18-49a5-b9f7-44564994c350",
+        "branch": "12607327-d269-4ba7-9300-f0064a7d744f"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "31ae429e-deb0-4d2c-a804-0a41c076d040",
+    "fields": {
+        "semester": "61d9cfb2-240a-4fa8-849d-03026b3ec3ac",
+        "school": "27cbf0d7-0fc7-43dc-a9ed-bfd55971b72d",
+        "branch": "6d0ffdce-559c-474f-ba90-329b63c3971c"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "35cb8ddb-b126-433c-8197-3e771eb640bb",
+    "fields": {
+        "semester": "350742c9-2efb-4b63-b003-66c019e55be2",
+        "school": "27cbf0d7-0fc7-43dc-a9ed-bfd55971b72d",
+        "branch": "6d0ffdce-559c-474f-ba90-329b63c3971c"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "38baab35-2a1b-40f6-a8ee-3affc25c9d44",
+    "fields": {
+        "semester": "350742c9-2efb-4b63-b003-66c019e55be2",
+        "school": "3aa3ddbb-5e18-49a5-b9f7-44564994c350",
+        "branch": "12607327-d269-4ba7-9300-f0064a7d744f"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "3f0d9598-5e45-4ac7-98fd-685b743a5e6f",
+    "fields": {
+        "semester": "95045feb-0d72-4507-b3e6-ade0546b9234",
+        "school": "27cbf0d7-0fc7-43dc-a9ed-bfd55971b72d",
+        "branch": "6d0ffdce-559c-474f-ba90-329b63c3971c"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "43e904ee-7b3f-448c-a3ad-5b4489ac1534",
+    "fields": {
+        "semester": "350742c9-2efb-4b63-b003-66c019e55be2",
+        "school": "27cbf0d7-0fc7-43dc-a9ed-bfd55971b72d",
+        "branch": "48abea60-8ff4-4fc5-a1f4-42a4a0ee6702"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "4d13c3cb-0f63-41c1-8960-5183ecbd2ee4",
+    "fields": {
+        "semester": "6302b499-b881-41a8-bdc8-5d361aa2deb3",
+        "school": "f2d9ca83-3c2a-4773-9f7d-ac312a82704d",
+        "branch": "1ed2aeae-3fd5-49f3-98f2-084ad1c5dac9"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "4e168182-810c-41a5-9cb9-aa5936310cbe",
+    "fields": {
+        "semester": "ee11f905-3723-4e8d-942b-9e37a1cccf91",
+        "school": "27cbf0d7-0fc7-43dc-a9ed-bfd55971b72d",
+        "branch": "48abea60-8ff4-4fc5-a1f4-42a4a0ee6702"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "5916c5da-902c-4d73-a270-d666d1946a35",
+    "fields": {
+        "semester": "95045feb-0d72-4507-b3e6-ade0546b9234",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "635ed299-5d54-45c1-86e3-c4c75583e688",
+    "fields": {
+        "semester": "350742c9-2efb-4b63-b003-66c019e55be2",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "6a7a2741-cf77-4234-aa61-73a24ac264ed",
+    "fields": {
+        "semester": "428cb7b1-83b2-4281-906b-7cde1ce54a1b",
+        "school": "27cbf0d7-0fc7-43dc-a9ed-bfd55971b72d",
+        "branch": "6d0ffdce-559c-474f-ba90-329b63c3971c"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "6e5a416a-210e-4855-8f67-321b39193657",
+    "fields": {
+        "semester": "61d9cfb2-240a-4fa8-849d-03026b3ec3ac",
+        "school": "f2d9ca83-3c2a-4773-9f7d-ac312a82704d",
+        "branch": "1ed2aeae-3fd5-49f3-98f2-084ad1c5dac9"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "82dec364-68c9-43d9-b0bf-6f6af8b6ef2e",
+    "fields": {
+        "semester": "95045feb-0d72-4507-b3e6-ade0546b9234",
+        "school": "f2d9ca83-3c2a-4773-9f7d-ac312a82704d",
+        "branch": "1ed2aeae-3fd5-49f3-98f2-084ad1c5dac9"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "8692c6d4-bf20-418f-85d1-2df0c1830d55",
+    "fields": {
+        "semester": "ee11f905-3723-4e8d-942b-9e37a1cccf91",
+        "school": "27cbf0d7-0fc7-43dc-a9ed-bfd55971b72d",
+        "branch": "6d0ffdce-559c-474f-ba90-329b63c3971c"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "86bc76e1-89eb-4b1b-b910-3a97a935e7e5",
+    "fields": {
+        "semester": "6302b499-b881-41a8-bdc8-5d361aa2deb3",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "891cdfd6-7f82-41dc-99a4-f4a75db46da3",
+    "fields": {
+        "semester": "428cb7b1-83b2-4281-906b-7cde1ce54a1b",
+        "school": "3aa3ddbb-5e18-49a5-b9f7-44564994c350",
+        "branch": "3d21730d-a57f-4c3a-972c-830793949265"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "8e897b5f-b8b7-4fcf-8df7-cd389b0fb97f",
+    "fields": {
+        "semester": "350742c9-2efb-4b63-b003-66c019e55be2",
+        "school": "f2d9ca83-3c2a-4773-9f7d-ac312a82704d",
+        "branch": "1ed2aeae-3fd5-49f3-98f2-084ad1c5dac9"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "9e63e7d1-e5fd-47c3-9d4e-d7e5d141a945",
+    "fields": {
+        "semester": "61d9cfb2-240a-4fa8-849d-03026b3ec3ac",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "a1cde617-da7f-46d7-8ea7-04a6b04e4da0",
+    "fields": {
+        "semester": "9e9ea04b-866e-4486-bb2f-cafcea7061d1",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "a3cb9f49-9d08-4102-977b-48a28c8f7a64",
+    "fields": {
+        "semester": "95045feb-0d72-4507-b3e6-ade0546b9234",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "b07832bf-a21b-4995-9219-1203aa4d5cc5",
+    "fields": {
+        "semester": "350742c9-2efb-4b63-b003-66c019e55be2",
+        "school": "3aa3ddbb-5e18-49a5-b9f7-44564994c350",
+        "branch": "3d21730d-a57f-4c3a-972c-830793949265"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "b302fd51-16ef-46e1-ac16-aa712f06dce3",
+    "fields": {
+        "semester": "61d9cfb2-240a-4fa8-849d-03026b3ec3ac",
+        "school": "27cbf0d7-0fc7-43dc-a9ed-bfd55971b72d",
+        "branch": "48abea60-8ff4-4fc5-a1f4-42a4a0ee6702"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "bfa546e0-871a-4436-a8d5-c7d2b96e6999",
+    "fields": {
+        "semester": "95045feb-0d72-4507-b3e6-ade0546b9234",
+        "school": "27cbf0d7-0fc7-43dc-a9ed-bfd55971b72d",
+        "branch": "48abea60-8ff4-4fc5-a1f4-42a4a0ee6702"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "c397209f-4dbd-4e35-9da9-0331079fa8fa",
+    "fields": {
+        "semester": "61d9cfb2-240a-4fa8-849d-03026b3ec3ac",
+        "school": "3aa3ddbb-5e18-49a5-b9f7-44564994c350",
+        "branch": "3d21730d-a57f-4c3a-972c-830793949265"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "c39cde82-80a4-429b-a950-a3afadffbae7",
+    "fields": {
+        "semester": "61d9cfb2-240a-4fa8-849d-03026b3ec3ac",
+        "school": "3aa3ddbb-5e18-49a5-b9f7-44564994c350",
+        "branch": "12607327-d269-4ba7-9300-f0064a7d744f"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "c5f99bbb-9eb4-4cff-a901-eee2027120ec",
+    "fields": {
+        "semester": "428cb7b1-83b2-4281-906b-7cde1ce54a1b",
+        "school": "3aa3ddbb-5e18-49a5-b9f7-44564994c350",
+        "branch": "12607327-d269-4ba7-9300-f0064a7d744f"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "c7ba7a8c-d245-4caf-944a-a334ae4befaf",
+    "fields": {
+        "semester": "428cb7b1-83b2-4281-906b-7cde1ce54a1b",
+        "school": "27cbf0d7-0fc7-43dc-a9ed-bfd55971b72d",
+        "branch": "48abea60-8ff4-4fc5-a1f4-42a4a0ee6702"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "d04bd2b9-bb42-4bbb-a069-e47081728a75",
+    "fields": {
+        "semester": "6302b499-b881-41a8-bdc8-5d361aa2deb3",
+        "school": "27cbf0d7-0fc7-43dc-a9ed-bfd55971b72d",
+        "branch": "48abea60-8ff4-4fc5-a1f4-42a4a0ee6702"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "d0df729b-cce7-4220-a32a-bc1428634670",
+    "fields": {
+        "semester": "6302b499-b881-41a8-bdc8-5d361aa2deb3",
+        "school": "3aa3ddbb-5e18-49a5-b9f7-44564994c350",
+        "branch": "12607327-d269-4ba7-9300-f0064a7d744f"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "d0edae39-4f45-4359-87e6-47a203e9384b",
+    "fields": {
+        "semester": "ee11f905-3723-4e8d-942b-9e37a1cccf91",
+        "school": "f2d9ca83-3c2a-4773-9f7d-ac312a82704d",
+        "branch": "1ed2aeae-3fd5-49f3-98f2-084ad1c5dac9"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "d40afb15-7c63-4043-8e46-edcf4ca211eb",
+    "fields": {
+        "semester": "350742c9-2efb-4b63-b003-66c019e55be2",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "dd2a1856-a204-4501-80d8-7a98ce7a7200",
+    "fields": {
+        "semester": "61d9cfb2-240a-4fa8-849d-03026b3ec3ac",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "e2ea052a-a221-40ac-a45c-556522b3c626",
+    "fields": {
+        "semester": "ee11f905-3723-4e8d-942b-9e37a1cccf91",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "e3fbe0ce-5e89-4385-ab6e-dd4087951219",
+    "fields": {
+        "semester": "95045feb-0d72-4507-b3e6-ade0546b9234",
+        "school": "3aa3ddbb-5e18-49a5-b9f7-44564994c350",
+        "branch": "12607327-d269-4ba7-9300-f0064a7d744f"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "e7aad52d-5629-43b3-b448-53c3ddbebc12",
+    "fields": {
+        "semester": "6302b499-b881-41a8-bdc8-5d361aa2deb3",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "f68e0024-bc3c-435d-8578-47e228293333",
+    "fields": {
+        "semester": "428cb7b1-83b2-4281-906b-7cde1ce54a1b",
+        "school": "f2d9ca83-3c2a-4773-9f7d-ac312a82704d",
+        "branch": "1ed2aeae-3fd5-49f3-98f2-084ad1c5dac9"
+    }
+},
+{
+    "model": "User.branch_semester",
+    "pk": "f74524af-7612-43be-b0f2-ab95b68390e4",
+    "fields": {
+        "semester": "ee11f905-3723-4e8d-942b-9e37a1cccf91",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.user_group",
+    "pk": "1d1fa6cd-70de-47f3-b233-f85047539a64",
+    "fields": {
+        "group_name": "B",
+        "no_of_students": 260,
+        "semester": "5daaa501-f275-41db-a017-9343621c47f1",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.user_group",
+    "pk": "3df1a617-6d78-44d1-a20c-dbad4c57d23f",
+    "fields": {
+        "group_name": "C2",
+        "no_of_students": 18,
+        "semester": "61d9cfb2-240a-4fa8-849d-03026b3ec3ac",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.user_group",
+    "pk": "5779f8b9-e0ad-4410-835b-57d78097c493",
+    "fields": {
+        "group_name": "C",
+        "no_of_students": 60,
+        "semester": "61d9cfb2-240a-4fa8-849d-03026b3ec3ac",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.user_group",
+    "pk": "8238c988-2279-4913-838e-28888ce324a0",
+    "fields": {
+        "group_name": "A",
+        "no_of_students": 300,
+        "semester": "5daaa501-f275-41db-a017-9343621c47f1",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.user_group",
+    "pk": "90edf32e-09b5-4d93-a440-846f5f3af0f3",
+    "fields": {
+        "group_name": "D",
+        "no_of_students": 45,
+        "semester": "6302b499-b881-41a8-bdc8-5d361aa2deb3",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.user_group",
+    "pk": "9434199e-38d2-4312-8e76-8d2f284d4b71",
+    "fields": {
+        "group_name": "B",
+        "no_of_students": 260,
+        "semester": "9e9ea04b-866e-4486-bb2f-cafcea7061d1",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.user_group",
+    "pk": "962608de-e9f7-4df1-bc50-e992abef1883",
+    "fields": {
+        "group_name": "D",
+        "no_of_students": 45,
+        "semester": "61d9cfb2-240a-4fa8-849d-03026b3ec3ac",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.user_group",
+    "pk": "9aef1d7a-20eb-41bf-9b77-49608399f629",
+    "fields": {
+        "group_name": "D4",
+        "no_of_students": 18,
+        "semester": "61d9cfb2-240a-4fa8-849d-03026b3ec3ac",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.user_group",
+    "pk": "ae49b6d6-6778-4ca3-afb4-fc6f3ed05808",
+    "fields": {
+        "group_name": "D4",
+        "no_of_students": 45,
+        "semester": "6302b499-b881-41a8-bdc8-5d361aa2deb3",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.user_group",
+    "pk": "c6d8a3e8-6494-4549-86d6-ed6a99bf3461",
+    "fields": {
+        "group_name": "Java-1",
+        "no_of_students": 25,
+        "semester": "6302b499-b881-41a8-bdc8-5d361aa2deb3",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.user_group",
+    "pk": "cab81efd-0e86-445a-9f7c-c23dfb7a44f4",
+    "fields": {
+        "group_name": "C",
+        "no_of_students": 60,
+        "semester": "6302b499-b881-41a8-bdc8-5d361aa2deb3",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.user_group",
+    "pk": "cf3a1a10-43f0-4683-9a97-c21cdbcf760d",
+    "fields": {
+        "group_name": "D2",
+        "no_of_students": 18,
+        "semester": "61d9cfb2-240a-4fa8-849d-03026b3ec3ac",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.user_group",
+    "pk": "d92fc625-f145-4509-a6fe-e74e9d86720d",
+    "fields": {
+        "group_name": "A",
+        "no_of_students": 300,
+        "semester": "9e9ea04b-866e-4486-bb2f-cafcea7061d1",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.user_group",
+    "pk": "dfd471ee-0e37-47f2-b9dc-08cbfce146cd",
+    "fields": {
+        "group_name": "C2",
+        "no_of_students": 18,
+        "semester": "6302b499-b881-41a8-bdc8-5d361aa2deb3",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.user_group",
+    "pk": "f2764045-a4e0-4709-9393-c199ad7530aa",
+    "fields": {
+        "group_name": "D2",
+        "no_of_students": 45,
+        "semester": "6302b499-b881-41a8-bdc8-5d361aa2deb3",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.course",
+    "pk": "1dd12146-32b8-4d6f-acce-6399b11bd4fd",
+    "fields": {
+        "course_name": "Electrical & Electronic Engineering",
+        "course_desc": "Electrical & Electronic Engineering",
+        "semester": "9e9ea04b-866e-4486-bb2f-cafcea7061d1",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.course",
+    "pk": "270c1a43-8319-457d-ab28-2062536872b2",
+    "fields": {
+        "course_name": "Calculus And Differential Equations",
+        "course_desc": "Calculus And Differential Equations",
+        "semester": "5daaa501-f275-41db-a017-9343621c47f1",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.course",
+    "pk": "2c068726-fd16-4061-8ae0-04150d52c3a8",
+    "fields": {
+        "course_name": "Database Management System",
+        "course_desc": "Database Management System",
+        "semester": "61d9cfb2-240a-4fa8-849d-03026b3ec3ac",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.course",
+    "pk": "379deaa4-c481-42c3-83ea-292ead808824",
+    "fields": {
+        "course_name": "Advanced Data Structure Lab",
+        "course_desc": "Advanced Data Structure Lab",
+        "semester": "61d9cfb2-240a-4fa8-849d-03026b3ec3ac",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.course",
+    "pk": "3a55c12c-0bc1-4154-ae9f-cad147e6a7ae",
+    "fields": {
+        "course_name": "Engineering Informatics Lab",
+        "course_desc": "Engineering Informatics Lab",
+        "semester": "6302b499-b881-41a8-bdc8-5d361aa2deb3",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.course",
+    "pk": "4479ae24-36cc-458d-a71d-7aaaa8740213",
+    "fields": {
+        "course_name": "EGR",
+        "course_desc": "Engineering Graphics",
+        "semester": "9e9ea04b-866e-4486-bb2f-cafcea7061d1",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.course",
+    "pk": "5db3107a-2a20-4e20-956e-489b14bdd9eb",
+    "fields": {
+        "course_name": "Advanced Data Structure",
+        "course_desc": "Advanced Data Structure",
+        "semester": "61d9cfb2-240a-4fa8-849d-03026b3ec3ac",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.course",
+    "pk": "5fef4414-2fe4-440f-b7e2-a1883f52a280",
+    "fields": {
+        "course_name": "Applied Mechanics",
+        "course_desc": "Applied Mechanics",
+        "semester": "5daaa501-f275-41db-a017-9343621c47f1",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.course",
+    "pk": "69c9a05d-b438-4827-b426-fbc63287b885",
+    "fields": {
+        "course_name": "Database Management System Lab",
+        "course_desc": "Database Management System Lab",
+        "semester": "61d9cfb2-240a-4fa8-849d-03026b3ec3ac",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.course",
+    "pk": "6da40d8d-e87e-4799-adc8-38e67e16c1f6",
+    "fields": {
+        "course_name": "C Programming",
+        "course_desc": "C programming",
+        "semester": "5daaa501-f275-41db-a017-9343621c47f1",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.course",
+    "pk": "70537b64-92f1-4c31-a8d1-52e9e818e577",
+    "fields": {
+        "course_name": "Computer Organization & Architecture",
+        "course_desc": "Computer Organization & Architecture",
+        "semester": "61d9cfb2-240a-4fa8-849d-03026b3ec3ac",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.course",
+    "pk": "8eee4446-8c6c-4248-aa9e-15ee2d0b53f3",
+    "fields": {
+        "course_name": "Science of Nature",
+        "course_desc": "Science of Nature",
+        "semester": "5daaa501-f275-41db-a017-9343621c47f1",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.course",
+    "pk": "9bd2db91-da37-4842-9fb8-038f90a6d09a",
+    "fields": {
+        "course_name": "Computer Graphics Lab",
+        "course_desc": "Computer Graphics Lab",
+        "semester": "6302b499-b881-41a8-bdc8-5d361aa2deb3",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.course",
+    "pk": "a692aea5-5596-481e-9c17-9ebc9657f558",
+    "fields": {
+        "course_name": "Java",
+        "course_desc": "Java",
+        "semester": "6302b499-b881-41a8-bdc8-5d361aa2deb3",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.course",
+    "pk": "a70334a5-bb0a-4da8-bedb-5659d33abb65",
+    "fields": {
+        "course_name": "Engineering Informatics",
+        "course_desc": "Engineering Informatics Lab",
+        "semester": "6302b499-b881-41a8-bdc8-5d361aa2deb3",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.course",
+    "pk": "a9855f8c-2698-4fe6-89e7-aad7eca021b6",
+    "fields": {
+        "course_name": "Data Structure Lab",
+        "course_desc": "Data Structure Lab",
+        "semester": "6302b499-b881-41a8-bdc8-5d361aa2deb3",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.course",
+    "pk": "b131052a-07d2-4f5f-8804-3515adba7e9e",
+    "fields": {
+        "course_name": "Data Structure",
+        "course_desc": "Data Structure",
+        "semester": "6302b499-b881-41a8-bdc8-5d361aa2deb3",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.course",
+    "pk": "bde81ff7-c334-4506-b5e1-1196b105f8e4",
+    "fields": {
+        "course_name": "Computer Graphics",
+        "course_desc": "Computer Graphics",
+        "semester": "6302b499-b881-41a8-bdc8-5d361aa2deb3",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.course",
+    "pk": "c52295c9-8112-4338-a842-6dd882cbfbbb",
+    "fields": {
+        "course_name": "Applied Mathematics",
+        "course_desc": "Applied Mathematics",
+        "semester": "61d9cfb2-240a-4fa8-849d-03026b3ec3ac",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.course",
+    "pk": "cc7845da-88e6-4d4e-870d-95069b83c41d",
+    "fields": {
+        "course_name": "Physics",
+        "course_desc": "Physics",
+        "semester": "9e9ea04b-866e-4486-bb2f-cafcea7061d1",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.course",
+    "pk": "dd94be7a-6bf8-453a-97cd-187033df7a08",
+    "fields": {
+        "course_name": "Python",
+        "course_desc": "Python",
+        "semester": "9e9ea04b-866e-4486-bb2f-cafcea7061d1",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.course",
+    "pk": "e0bc6634-7bfc-4a1a-8072-4cf02e13b85c",
+    "fields": {
+        "course_name": "Computer Organization & Architecture Lab",
+        "course_desc": "Computer Organization & Architecture Lab",
+        "semester": "61d9cfb2-240a-4fa8-849d-03026b3ec3ac",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "07935c59-4ad7-4a3a-9952-add222971634",
+    "fields": {
+        "group": "1d1fa6cd-70de-47f3-b233-f85047539a64",
+        "course": "8eee4446-8c6c-4248-aa9e-15ee2d0b53f3",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "0c0756ce-fa56-42e2-8d6e-b470b823bded",
+    "fields": {
+        "group": "8238c988-2279-4913-838e-28888ce324a0",
+        "course": "cc7845da-88e6-4d4e-870d-95069b83c41d",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "1665c781-f2a8-4134-82e1-484c884b5c2f",
+    "fields": {
+        "group": "1d1fa6cd-70de-47f3-b233-f85047539a64",
+        "course": "6da40d8d-e87e-4799-adc8-38e67e16c1f6",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "193d0ca4-4192-484b-9727-6f3575c73518",
+    "fields": {
+        "group": "962608de-e9f7-4df1-bc50-e992abef1883",
+        "course": "70537b64-92f1-4c31-a8d1-52e9e818e577",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "1ec0567e-cb9c-4009-a78d-91da4806a0e1",
+    "fields": {
+        "group": "dfd471ee-0e37-47f2-b9dc-08cbfce146cd",
+        "course": "a9855f8c-2698-4fe6-89e7-aad7eca021b6",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "205dff74-e071-4de4-aeea-6a50516a312c",
+    "fields": {
+        "group": "5779f8b9-e0ad-4410-835b-57d78097c493",
+        "course": "c52295c9-8112-4338-a842-6dd882cbfbbb",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "28cf37ee-2f38-4607-9d6c-10ded450cfc9",
+    "fields": {
+        "group": "5779f8b9-e0ad-4410-835b-57d78097c493",
+        "course": "2c068726-fd16-4061-8ae0-04150d52c3a8",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "297fc1ac-3029-4ea4-bf4b-728920539124",
+    "fields": {
+        "group": "1d1fa6cd-70de-47f3-b233-f85047539a64",
+        "course": "dd94be7a-6bf8-453a-97cd-187033df7a08",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "2ae7aff8-2fbd-4fdb-ad33-a3346713c787",
+    "fields": {
+        "group": "8238c988-2279-4913-838e-28888ce324a0",
+        "course": "270c1a43-8319-457d-ab28-2062536872b2",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "2faf28ad-7cac-41ba-a683-24f712955a06",
+    "fields": {
+        "group": "1d1fa6cd-70de-47f3-b233-f85047539a64",
+        "course": "1dd12146-32b8-4d6f-acce-6399b11bd4fd",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "3316bfa3-e537-4fea-bceb-0a57fcd04424",
+    "fields": {
+        "group": "8238c988-2279-4913-838e-28888ce324a0",
+        "course": "5fef4414-2fe4-440f-b7e2-a1883f52a280",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "34d3c48f-a0e2-443e-9a36-2b0b1bd774d1",
+    "fields": {
+        "group": "90edf32e-09b5-4d93-a440-846f5f3af0f3",
+        "course": "a70334a5-bb0a-4da8-bedb-5659d33abb65",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "44adead6-f5d6-447d-9d5f-cbdca97ec276",
+    "fields": {
+        "group": "1d1fa6cd-70de-47f3-b233-f85047539a64",
+        "course": "cc7845da-88e6-4d4e-870d-95069b83c41d",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "5077d006-0b74-4836-915f-8d87c90f4085",
+    "fields": {
+        "group": "f2764045-a4e0-4709-9393-c199ad7530aa",
+        "course": "a9855f8c-2698-4fe6-89e7-aad7eca021b6",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "52a10670-a8ab-4612-b408-6b4fd13478fd",
+    "fields": {
+        "group": "cf3a1a10-43f0-4683-9a97-c21cdbcf760d",
+        "course": "379deaa4-c481-42c3-83ea-292ead808824",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "5866c41e-9853-4658-8769-e0b2b04b45e1",
+    "fields": {
+        "group": "90edf32e-09b5-4d93-a440-846f5f3af0f3",
+        "course": "bde81ff7-c334-4506-b5e1-1196b105f8e4",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "610e5b83-9536-449f-b66c-048a9ee0094f",
+    "fields": {
+        "group": "ae49b6d6-6778-4ca3-afb4-fc6f3ed05808",
+        "course": "a9855f8c-2698-4fe6-89e7-aad7eca021b6",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "64fbb339-82eb-4465-b7d2-fc669dc8004b",
+    "fields": {
+        "group": "8238c988-2279-4913-838e-28888ce324a0",
+        "course": "8eee4446-8c6c-4248-aa9e-15ee2d0b53f3",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "67a83aad-708f-42ef-b098-e1975f905f2f",
+    "fields": {
+        "group": "1d1fa6cd-70de-47f3-b233-f85047539a64",
+        "course": "5fef4414-2fe4-440f-b7e2-a1883f52a280",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "6d6f8488-8505-434c-824a-45db9602205f",
+    "fields": {
+        "group": "8238c988-2279-4913-838e-28888ce324a0",
+        "course": "dd94be7a-6bf8-453a-97cd-187033df7a08",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "7389c41b-f04a-45c9-9681-dcf529c758b9",
+    "fields": {
+        "group": "8238c988-2279-4913-838e-28888ce324a0",
+        "course": "dd94be7a-6bf8-453a-97cd-187033df7a08",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "74e949b9-f747-4ea1-a1d0-3ff8bf47578f",
+    "fields": {
+        "group": "962608de-e9f7-4df1-bc50-e992abef1883",
+        "course": "2c068726-fd16-4061-8ae0-04150d52c3a8",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "79aa74c7-cfcf-407f-880d-5804077873b7",
+    "fields": {
+        "group": "8238c988-2279-4913-838e-28888ce324a0",
+        "course": "6da40d8d-e87e-4799-adc8-38e67e16c1f6",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "803331df-4f9b-46cc-9659-bab963c0775a",
+    "fields": {
+        "group": "962608de-e9f7-4df1-bc50-e992abef1883",
+        "course": "5db3107a-2a20-4e20-956e-489b14bdd9eb",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "8e5b39fb-0f45-4868-b04b-22918661ec93",
+    "fields": {
+        "group": "3df1a617-6d78-44d1-a20c-dbad4c57d23f",
+        "course": "e0bc6634-7bfc-4a1a-8072-4cf02e13b85c",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "99524fe8-cfa8-4c87-982d-977bcc87b91a",
+    "fields": {
+        "group": "90edf32e-09b5-4d93-a440-846f5f3af0f3",
+        "course": "b131052a-07d2-4f5f-8804-3515adba7e9e",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "a851743e-5581-46b3-81c7-639a7d0d4232",
+    "fields": {
+        "group": "1d1fa6cd-70de-47f3-b233-f85047539a64",
+        "course": "270c1a43-8319-457d-ab28-2062536872b2",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "a9581250-5672-4364-a811-596fd735d317",
+    "fields": {
+        "group": "9aef1d7a-20eb-41bf-9b77-49608399f629",
+        "course": "379deaa4-c481-42c3-83ea-292ead808824",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "b1755761-f5d6-4408-83b4-7fe37b83ff18",
+    "fields": {
+        "group": "c6d8a3e8-6494-4549-86d6-ed6a99bf3461",
+        "course": "a692aea5-5596-481e-9c17-9ebc9657f558",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "b64496cd-5641-48d2-bf2f-4c22dca094be",
+    "fields": {
+        "group": "8238c988-2279-4913-838e-28888ce324a0",
+        "course": "1dd12146-32b8-4d6f-acce-6399b11bd4fd",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "bcfe81a8-9611-4628-b67b-ad29a4f0ce68",
+    "fields": {
+        "group": "cab81efd-0e86-445a-9f7c-c23dfb7a44f4",
+        "course": "bde81ff7-c334-4506-b5e1-1196b105f8e4",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "be5255d1-85cf-470c-94ea-cc5c7beeea1f",
+    "fields": {
+        "group": "cab81efd-0e86-445a-9f7c-c23dfb7a44f4",
+        "course": "b131052a-07d2-4f5f-8804-3515adba7e9e",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "cac7f231-4673-49ab-b6c7-37c6ad441b74",
+    "fields": {
+        "group": "5779f8b9-e0ad-4410-835b-57d78097c493",
+        "course": "5db3107a-2a20-4e20-956e-489b14bdd9eb",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "cd214c37-5495-4cea-abb3-9e3c01aa6c4e",
+    "fields": {
+        "group": "1d1fa6cd-70de-47f3-b233-f85047539a64",
+        "course": "4479ae24-36cc-458d-a71d-7aaaa8740213",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "cf76829d-0695-4f9e-8387-b4cb03fcb476",
+    "fields": {
+        "group": "dfd471ee-0e37-47f2-b9dc-08cbfce146cd",
+        "course": "9bd2db91-da37-4842-9fb8-038f90a6d09a",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "cfc76bc2-d58b-438e-b9d5-9aae6be1a68a",
+    "fields": {
+        "group": "3df1a617-6d78-44d1-a20c-dbad4c57d23f",
+        "course": "379deaa4-c481-42c3-83ea-292ead808824",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "d37c24f3-4bd6-4fec-92aa-1d57e2eaa6b8",
+    "fields": {
+        "group": "5779f8b9-e0ad-4410-835b-57d78097c493",
+        "course": "70537b64-92f1-4c31-a8d1-52e9e818e577",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "db5800c2-9a37-4aa7-8abb-d6cf48918d39",
+    "fields": {
+        "group": "9aef1d7a-20eb-41bf-9b77-49608399f629",
+        "course": "e0bc6634-7bfc-4a1a-8072-4cf02e13b85c",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "dd82f354-81c9-41bf-9863-ffba865f25aa",
+    "fields": {
+        "group": "8238c988-2279-4913-838e-28888ce324a0",
+        "course": "4479ae24-36cc-458d-a71d-7aaaa8740213",
+        "school": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "branch": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "f2bcdf73-b6c3-4c4b-b084-fb7a4e44764e",
+    "fields": {
+        "group": "962608de-e9f7-4df1-bc50-e992abef1883",
+        "course": "c52295c9-8112-4338-a842-6dd882cbfbbb",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "f5a09c20-f1f7-47f1-8324-16fa511579a2",
+    "fields": {
+        "group": "ae49b6d6-6778-4ca3-afb4-fc6f3ed05808",
+        "course": "9bd2db91-da37-4842-9fb8-038f90a6d09a",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "fa18235a-c49f-4263-9309-207265f5b939",
+    "fields": {
+        "group": "cf3a1a10-43f0-4683-9a97-c21cdbcf760d",
+        "course": "e0bc6634-7bfc-4a1a-8072-4cf02e13b85c",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "fd1a416d-877f-4623-94af-1bc624b1af10",
+    "fields": {
+        "group": "cab81efd-0e86-445a-9f7c-c23dfb7a44f4",
+        "course": "a70334a5-bb0a-4da8-bedb-5659d33abb65",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "User.group_course",
+    "pk": "fe402d3f-1470-4899-a585-855eb6da07b0",
+    "fields": {
+        "group": "f2764045-a4e0-4709-9393-c199ad7530aa",
+        "course": "9bd2db91-da37-4842-9fb8-038f90a6d09a",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "teacher.teacher_course",
+    "pk": "43257a56-5454-47e5-b8be-68a115dd2042",
+    "fields": {
+        "teacher": [
+            "ghuse@mitaoe.ac.in"
+        ],
+        "group_course": "52a10670-a8ab-4612-b408-6b4fd13478fd",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "teacher.teacher_course",
+    "pk": "5cde3d26-24f1-44b4-9b11-55d0fc986503",
+    "fields": {
+        "teacher": [
+            "vajadhav@mitaoe.ac.in"
+        ],
+        "group_course": "28cf37ee-2f38-4607-9d6c-10ded450cfc9",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "teacher.teacher_course",
+    "pk": "60fa8146-a371-4d65-9839-b1b03d00fdc9",
+    "fields": {
+        "teacher": [
+            "vajadhav@mitaoe.ac.in"
+        ],
+        "group_course": "74e949b9-f747-4ea1-a1d0-3ff8bf47578f",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "teacher.teacher_course",
+    "pk": "6786da10-d7fd-4d4b-865d-ec512c2ee4eb",
+    "fields": {
+        "teacher": [
+            "vajadhav@mitaoe.ac.in"
+        ],
+        "group_course": "1ec0567e-cb9c-4009-a78d-91da4806a0e1",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "teacher.teacher_course",
+    "pk": "e4c310fe-08d7-4b97-8dac-cd12038ea16d",
+    "fields": {
+        "teacher": [
+            "ghuse@mitaoe.ac.in"
+        ],
+        "group_course": "193d0ca4-4192-484b-9727-6f3575c73518",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "teacher.teacher_course",
+    "pk": "ea1e76be-412b-4998-9126-5e969387f4e2",
+    "fields": {
+        "teacher": [
+            "ghuse@mitaoe.ac.in"
+        ],
+        "group_course": "5866c41e-9853-4658-8769-e0b2b04b45e1",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "student.student_group",
+    "pk": "0fc7dae2-51a8-4606-961c-734466460637",
+    "fields": {
+        "student": [
+            "nikhil@mitaoe.ac.in"
+        ],
+        "group": "962608de-e9f7-4df1-bc50-e992abef1883",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "student.student_group",
+    "pk": "18a83092-47c9-4891-9e26-8e2c99aaac2a",
+    "fields": {
+        "student": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "group": "3df1a617-6d78-44d1-a20c-dbad4c57d23f",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "student.student_group",
+    "pk": "239d18ce-f0eb-4720-be88-764f9ecd8fee",
+    "fields": {
+        "student": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "group": "cf3a1a10-43f0-4683-9a97-c21cdbcf760d",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "student.student_group",
+    "pk": "240eaaf1-8202-4e8a-9ef0-269a496fa702",
+    "fields": {
+        "student": [
+            "lalit@mitaoe.ac.in"
+        ],
+        "group": "cf3a1a10-43f0-4683-9a97-c21cdbcf760d",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "student.student_group",
+    "pk": "56e4015c-2d8e-4eec-acf6-c2f5c17f0b63",
+    "fields": {
+        "student": [
+            "lalit@mitaoe.ac.in"
+        ],
+        "group": "962608de-e9f7-4df1-bc50-e992abef1883",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "student.student_group",
+    "pk": "781849dc-b5ab-4d55-9134-4ba2c475bdd8",
+    "fields": {
+        "student": [
+            "nikhil@mitaoe.ac.in"
+        ],
+        "group": "9aef1d7a-20eb-41bf-9b77-49608399f629",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "student.student_group",
+    "pk": "7ea7f89a-e305-4f07-acc5-28ce7a510e1f",
+    "fields": {
+        "student": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "group": "5779f8b9-e0ad-4410-835b-57d78097c493",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "student.student_group",
+    "pk": "83d4d6be-0b2d-431b-896b-e76e82b32f45",
+    "fields": {
+        "student": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "group": "c6d8a3e8-6494-4549-86d6-ed6a99bf3461",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "student.student_group",
+    "pk": "beba7c24-1ec9-4276-8a0a-7095ba2a7a1a",
+    "fields": {
+        "student": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "group": "962608de-e9f7-4df1-bc50-e992abef1883",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "1794aac8-79ac-41f7-88b7-fdde8b018d77"
+    }
+},
+{
+    "model": "student.student_group",
+    "pk": "e92ff2a5-8cba-42f9-b342-dfdb58f8af97",
+    "fields": {
+        "student": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "group": "c6d8a3e8-6494-4549-86d6-ed6a99bf3461",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "assignment.group_assignment",
+    "pk": 2,
+    "fields": {
+        "teacher": [
+            "vajadhav@mitaoe.ac.in"
+        ],
+        "grp_course": "28cf37ee-2f38-4607-9d6c-10ded450cfc9",
+        "assignment_id": "d3c3d3be-2b22-496a-8ff1-1d9cea9164bd",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "assignment.group_assignment",
+    "pk": 3,
+    "fields": {
+        "teacher": [
+            "vajadhav@mitaoe.ac.in"
+        ],
+        "grp_course": "74e949b9-f747-4ea1-a1d0-3ff8bf47578f",
+        "assignment_id": "3b069897-31e9-4419-ba7c-dff6a22af743",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "assignment.group_assignment",
+    "pk": 4,
+    "fields": {
+        "teacher": [
+            "vajadhav@mitaoe.ac.in"
+        ],
+        "grp_course": "1ec0567e-cb9c-4009-a78d-91da4806a0e1",
+        "assignment_id": "c758c318-0fab-4a9b-aa1f-b10541660808",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "assignment.group_assignment",
+    "pk": 5,
+    "fields": {
+        "teacher": [
+            "vajadhav@mitaoe.ac.in"
+        ],
+        "grp_course": "28cf37ee-2f38-4607-9d6c-10ded450cfc9",
+        "assignment_id": "c758c318-0fab-4a9b-aa1f-b10541660808",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "assignment.group_assignment",
+    "pk": 6,
+    "fields": {
+        "teacher": [
+            "vajadhav@mitaoe.ac.in"
+        ],
+        "grp_course": "28cf37ee-2f38-4607-9d6c-10ded450cfc9",
+        "assignment_id": "3b069897-31e9-4419-ba7c-dff6a22af743",
+        "school": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "branch": "478e93d9-365b-46b9-bf9f-eb7d1f972447"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2021-07-13T16:56:21.877Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "0120190312",
+        "object_repr": "ssmahajan@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Role of user\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2021-07-13T16:56:36.919Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "0120190202",
+        "object_repr": "vaishnavijahav@gmail.com",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Role of user\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2021-07-13T17:59:09.029Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "school"
+        ],
+        "object_id": "eaa32a2c-7012-4640-8efc-019ad749183f",
+        "object_repr": "SCET",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2021-07-13T17:59:19.371Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "school"
+        ],
+        "object_id": "27cbf0d7-0fc7-43dc-a9ed-bfd55971b72d",
+        "object_repr": "SMCE",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2021-07-13T17:59:29.870Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "school"
+        ],
+        "object_id": "f2d9ca83-3c2a-4773-9f7d-ac312a82704d",
+        "object_repr": "SCE",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2021-07-13T17:59:37.477Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "school"
+        ],
+        "object_id": "3aa3ddbb-5e18-49a5-b9f7-44564994c350",
+        "object_repr": "SEE",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2021-07-13T17:59:43.681Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "school"
+        ],
+        "object_id": "89af4ec2-ec12-4128-b263-8115988ae607",
+        "object_repr": "SHES",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2021-07-13T18:00:27.062Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "branch"
+        ],
+        "object_id": "478e93d9-365b-46b9-bf9f-eb7d1f972447",
+        "object_repr": "Computer Engineering",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2021-07-13T18:00:56.073Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "branch"
+        ],
+        "object_id": "1794aac8-79ac-41f7-88b7-fdde8b018d77",
+        "object_repr": "Information Technology",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2021-07-13T18:01:18.906Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "branch"
+        ],
+        "object_id": "6d0ffdce-559c-474f-ba90-329b63c3971c",
+        "object_repr": "Mechanical Engineering",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2021-07-13T18:01:50.746Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "branch"
+        ],
+        "object_id": "48abea60-8ff4-4fc5-a1f4-42a4a0ee6702",
+        "object_repr": "Civil Engineering",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2021-07-13T18:02:15.231Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "branch"
+        ],
+        "object_id": "1ed2aeae-3fd5-49f3-98f2-084ad1c5dac9",
+        "object_repr": "Chemical Engineering",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2021-07-13T18:02:35.037Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "branch"
+        ],
+        "object_id": "12607327-d269-4ba7-9300-f0064a7d744f",
+        "object_repr": "Electrical Engineering",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2021-07-13T18:02:45.816Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "branch"
+        ],
+        "object_id": "3d21730d-a57f-4c3a-972c-830793949265",
+        "object_repr": "ENTC",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2021-07-13T18:03:01.838Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "branch"
+        ],
+        "object_id": "d97d586b-0f69-46ec-a1d7-ce0c317c5efe",
+        "object_repr": "FY",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2021-07-13T18:03:28.030Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "semester"
+        ],
+        "object_id": "5daaa501-f275-41db-a017-9343621c47f1",
+        "object_repr": "Semester 1",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2021-07-13T18:03:38.090Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "semester"
+        ],
+        "object_id": "9e9ea04b-866e-4486-bb2f-cafcea7061d1",
+        "object_repr": "Semester 2",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2021-07-13T18:03:45.964Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "semester"
+        ],
+        "object_id": "6302b499-b881-41a8-bdc8-5d361aa2deb3",
+        "object_repr": "Semester 3",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2021-07-13T18:03:52.768Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "semester"
+        ],
+        "object_id": "61d9cfb2-240a-4fa8-849d-03026b3ec3ac",
+        "object_repr": "Semester 4",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2021-07-13T18:04:01.733Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "semester"
+        ],
+        "object_id": "95045feb-0d72-4507-b3e6-ade0546b9234",
+        "object_repr": "Semester 5",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2021-07-13T18:04:13.228Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "semester"
+        ],
+        "object_id": "ee11f905-3723-4e8d-942b-9e37a1cccf91",
+        "object_repr": "Semester 6",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2021-07-13T18:04:22.774Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "semester"
+        ],
+        "object_id": "350742c9-2efb-4b63-b003-66c019e55be2",
+        "object_repr": "Semester 7",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2021-07-13T18:04:29.978Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "semester"
+        ],
+        "object_id": "428cb7b1-83b2-4281-906b-7cde1ce54a1b",
+        "object_repr": "Semester 8",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2021-07-13T18:05:45.117Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user_group"
+        ],
+        "object_id": "8238c988-2279-4913-838e-28888ce324a0",
+        "object_repr": "A",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2021-07-13T18:08:02.318Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user_group"
+        ],
+        "object_id": "d92fc625-f145-4509-a6fe-e74e9d86720d",
+        "object_repr": "A",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2021-07-13T18:08:24.441Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user_group"
+        ],
+        "object_id": "1d1fa6cd-70de-47f3-b233-f85047539a64",
+        "object_repr": "B",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2021-07-13T18:08:46.685Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user_group"
+        ],
+        "object_id": "9434199e-38d2-4312-8e76-8d2f284d4b71",
+        "object_repr": "B",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2021-07-13T18:09:23.955Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user_group"
+        ],
+        "object_id": "cab81efd-0e86-445a-9f7c-c23dfb7a44f4",
+        "object_repr": "C",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2021-07-13T18:09:48.913Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user_group"
+        ],
+        "object_id": "5779f8b9-e0ad-4410-835b-57d78097c493",
+        "object_repr": "C",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2021-07-13T18:11:11.969Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user_group"
+        ],
+        "object_id": "dfd471ee-0e37-47f2-b9dc-08cbfce146cd",
+        "object_repr": "C2",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2021-07-13T18:11:35.300Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user_group"
+        ],
+        "object_id": "3df1a617-6d78-44d1-a20c-dbad4c57d23f",
+        "object_repr": "C2",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2021-07-13T18:12:04.782Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user_group"
+        ],
+        "object_id": "90edf32e-09b5-4d93-a440-846f5f3af0f3",
+        "object_repr": "D",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2021-07-13T18:12:30.564Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user_group"
+        ],
+        "object_id": "962608de-e9f7-4df1-bc50-e992abef1883",
+        "object_repr": "D",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2021-07-13T18:13:37.323Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user_group"
+        ],
+        "object_id": "f2764045-a4e0-4709-9393-c199ad7530aa",
+        "object_repr": "D2",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2021-07-13T18:14:11.454Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user_group"
+        ],
+        "object_id": "cf3a1a10-43f0-4683-9a97-c21cdbcf760d",
+        "object_repr": "D2",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2021-07-13T18:14:43.790Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user_group"
+        ],
+        "object_id": "ae49b6d6-6778-4ca3-afb4-fc6f3ed05808",
+        "object_repr": "D4",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2021-07-13T18:15:12.856Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user_group"
+        ],
+        "object_id": "9aef1d7a-20eb-41bf-9b77-49608399f629",
+        "object_repr": "D4",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2021-07-13T18:17:45.642Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user_group"
+        ],
+        "object_id": "c6d8a3e8-6494-4549-86d6-ed6a99bf3461",
+        "object_repr": "Java-1",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2021-07-13T18:19:41.074Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "course"
+        ],
+        "object_id": "5fef4414-2fe4-440f-b7e2-a1883f52a280",
+        "object_repr": "Applied Mechanics",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+        "action_time": "2021-07-13T18:20:15.181Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "course"
+        ],
+        "object_id": "8eee4446-8c6c-4248-aa9e-15ee2d0b53f3",
+        "object_repr": "Science of Nature",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+        "action_time": "2021-07-13T18:20:55.600Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "course"
+        ],
+        "object_id": "270c1a43-8319-457d-ab28-2062536872b2",
+        "object_repr": "Calculus And Differential Equations",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+        "action_time": "2021-07-13T18:21:45.011Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "course"
+        ],
+        "object_id": "6da40d8d-e87e-4799-adc8-38e67e16c1f6",
+        "object_repr": "C Programming",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+        "action_time": "2021-07-13T18:22:37.649Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "course"
+        ],
+        "object_id": "1dd12146-32b8-4d6f-acce-6399b11bd4fd",
+        "object_repr": "Electrical & Electronic Engineering",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+        "action_time": "2021-07-13T18:23:00.897Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "course"
+        ],
+        "object_id": "cc7845da-88e6-4d4e-870d-95069b83c41d",
+        "object_repr": "Physics",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+        "action_time": "2021-07-13T18:23:35.733Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "course"
+        ],
+        "object_id": "4479ae24-36cc-458d-a71d-7aaaa8740213",
+        "object_repr": "EGR",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+        "action_time": "2021-07-13T18:24:37.554Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "course"
+        ],
+        "object_id": "dd94be7a-6bf8-453a-97cd-187033df7a08",
+        "object_repr": "Python",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+        "action_time": "2021-07-13T18:26:53.392Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "course"
+        ],
+        "object_id": "b131052a-07d2-4f5f-8804-3515adba7e9e",
+        "object_repr": "Data Structure",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+        "action_time": "2021-07-13T18:27:23.606Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "course"
+        ],
+        "object_id": "a9855f8c-2698-4fe6-89e7-aad7eca021b6",
+        "object_repr": "Data Structure Lab",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+        "action_time": "2021-07-13T18:27:52.898Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "course"
+        ],
+        "object_id": "bde81ff7-c334-4506-b5e1-1196b105f8e4",
+        "object_repr": "Computer Graphics",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+        "action_time": "2021-07-13T18:28:25.845Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "course"
+        ],
+        "object_id": "9bd2db91-da37-4842-9fb8-038f90a6d09a",
+        "object_repr": "Computer Graphics Lab",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+        "action_time": "2021-07-13T18:28:51.206Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "course"
+        ],
+        "object_id": "a692aea5-5596-481e-9c17-9ebc9657f558",
+        "object_repr": "Java",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+        "action_time": "2021-07-13T18:29:18.227Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "course"
+        ],
+        "object_id": "a70334a5-bb0a-4da8-bedb-5659d33abb65",
+        "object_repr": "Engineering Informatics",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+        "action_time": "2021-07-13T18:29:51.622Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "course"
+        ],
+        "object_id": "3a55c12c-0bc1-4154-ae9f-cad147e6a7ae",
+        "object_repr": "Engineering Informatics Lab",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+        "action_time": "2021-07-13T18:30:38.163Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "course"
+        ],
+        "object_id": "5db3107a-2a20-4e20-956e-489b14bdd9eb",
+        "object_repr": "Advanced Data Structure",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+        "action_time": "2021-07-13T18:31:01.878Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "course"
+        ],
+        "object_id": "379deaa4-c481-42c3-83ea-292ead808824",
+        "object_repr": "Advanced Data Structure Lab",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+        "action_time": "2021-07-13T18:31:59.763Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "course"
+        ],
+        "object_id": "70537b64-92f1-4c31-a8d1-52e9e818e577",
+        "object_repr": "Computer Organization & Architecture",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 57,
+    "fields": {
+        "action_time": "2021-07-13T18:32:31.566Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "course"
+        ],
+        "object_id": "e0bc6634-7bfc-4a1a-8072-4cf02e13b85c",
+        "object_repr": "Computer Organization & Architecture Lab",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 58,
+    "fields": {
+        "action_time": "2021-07-13T18:33:02.845Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "course"
+        ],
+        "object_id": "2c068726-fd16-4061-8ae0-04150d52c3a8",
+        "object_repr": "Database Management System",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 59,
+    "fields": {
+        "action_time": "2021-07-13T18:33:24.516Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "course"
+        ],
+        "object_id": "69c9a05d-b438-4827-b426-fbc63287b885",
+        "object_repr": "Database Management System Lab",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 60,
+    "fields": {
+        "action_time": "2021-07-13T18:33:52.972Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "course"
+        ],
+        "object_id": "c52295c9-8112-4338-a842-6dd882cbfbbb",
+        "object_repr": "Applied Mathematics",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 61,
+    "fields": {
+        "action_time": "2021-07-13T18:39:13.045Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "3316bfa3-e537-4fea-bceb-0a57fcd04424",
+        "object_repr": "3316bfa3-e537-4fea-bceb-0a57fcd04424",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 62,
+    "fields": {
+        "action_time": "2021-07-13T18:42:09.485Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "64fbb339-82eb-4465-b7d2-fc669dc8004b",
+        "object_repr": "64fbb339-82eb-4465-b7d2-fc669dc8004b",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 63,
+    "fields": {
+        "action_time": "2021-07-13T18:42:24.298Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "2ae7aff8-2fbd-4fdb-ad33-a3346713c787",
+        "object_repr": "2ae7aff8-2fbd-4fdb-ad33-a3346713c787",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 64,
+    "fields": {
+        "action_time": "2021-07-13T18:42:38.836Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "79aa74c7-cfcf-407f-880d-5804077873b7",
+        "object_repr": "79aa74c7-cfcf-407f-880d-5804077873b7",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 65,
+    "fields": {
+        "action_time": "2021-07-13T18:44:12.150Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "b64496cd-5641-48d2-bf2f-4c22dca094be",
+        "object_repr": "b64496cd-5641-48d2-bf2f-4c22dca094be",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 66,
+    "fields": {
+        "action_time": "2021-07-13T18:44:37.551Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "0c0756ce-fa56-42e2-8d6e-b470b823bded",
+        "object_repr": "0c0756ce-fa56-42e2-8d6e-b470b823bded",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 67,
+    "fields": {
+        "action_time": "2021-07-13T18:44:53.256Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "dd82f354-81c9-41bf-9863-ffba865f25aa",
+        "object_repr": "dd82f354-81c9-41bf-9863-ffba865f25aa",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 68,
+    "fields": {
+        "action_time": "2021-07-13T18:45:07.831Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "6d6f8488-8505-434c-824a-45db9602205f",
+        "object_repr": "6d6f8488-8505-434c-824a-45db9602205f",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 69,
+    "fields": {
+        "action_time": "2021-07-13T18:46:03.484Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "7389c41b-f04a-45c9-9681-dcf529c758b9",
+        "object_repr": "7389c41b-f04a-45c9-9681-dcf529c758b9",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 70,
+    "fields": {
+        "action_time": "2021-07-13T18:46:16.449Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "67a83aad-708f-42ef-b098-e1975f905f2f",
+        "object_repr": "67a83aad-708f-42ef-b098-e1975f905f2f",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 71,
+    "fields": {
+        "action_time": "2021-07-13T18:46:34.883Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "07935c59-4ad7-4a3a-9952-add222971634",
+        "object_repr": "07935c59-4ad7-4a3a-9952-add222971634",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 72,
+    "fields": {
+        "action_time": "2021-07-13T18:47:00.069Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "a851743e-5581-46b3-81c7-639a7d0d4232",
+        "object_repr": "a851743e-5581-46b3-81c7-639a7d0d4232",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 73,
+    "fields": {
+        "action_time": "2021-07-13T18:47:39.433Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "1665c781-f2a8-4134-82e1-484c884b5c2f",
+        "object_repr": "1665c781-f2a8-4134-82e1-484c884b5c2f",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 74,
+    "fields": {
+        "action_time": "2021-07-13T18:48:12.083Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "2faf28ad-7cac-41ba-a683-24f712955a06",
+        "object_repr": "2faf28ad-7cac-41ba-a683-24f712955a06",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 75,
+    "fields": {
+        "action_time": "2021-07-13T18:48:58.024Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "44adead6-f5d6-447d-9d5f-cbdca97ec276",
+        "object_repr": "44adead6-f5d6-447d-9d5f-cbdca97ec276",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 76,
+    "fields": {
+        "action_time": "2021-07-13T18:49:19.979Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "cd214c37-5495-4cea-abb3-9e3c01aa6c4e",
+        "object_repr": "cd214c37-5495-4cea-abb3-9e3c01aa6c4e",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 77,
+    "fields": {
+        "action_time": "2021-07-13T18:49:35.458Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "297fc1ac-3029-4ea4-bf4b-728920539124",
+        "object_repr": "297fc1ac-3029-4ea4-bf4b-728920539124",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 78,
+    "fields": {
+        "action_time": "2021-07-13T18:50:06.116Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "be5255d1-85cf-470c-94ea-cc5c7beeea1f",
+        "object_repr": "be5255d1-85cf-470c-94ea-cc5c7beeea1f",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 79,
+    "fields": {
+        "action_time": "2021-07-13T18:50:31.598Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "be5255d1-85cf-470c-94ea-cc5c7beeea1f",
+        "object_repr": "be5255d1-85cf-470c-94ea-cc5c7beeea1f",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Group_fk\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 80,
+    "fields": {
+        "action_time": "2021-07-13T18:51:18.536Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "99524fe8-cfa8-4c87-982d-977bcc87b91a",
+        "object_repr": "99524fe8-cfa8-4c87-982d-977bcc87b91a",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 81,
+    "fields": {
+        "action_time": "2021-07-13T18:51:43.805Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "bcfe81a8-9611-4628-b67b-ad29a4f0ce68",
+        "object_repr": "bcfe81a8-9611-4628-b67b-ad29a4f0ce68",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 82,
+    "fields": {
+        "action_time": "2021-07-13T18:52:11.424Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "5866c41e-9853-4658-8769-e0b2b04b45e1",
+        "object_repr": "5866c41e-9853-4658-8769-e0b2b04b45e1",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 83,
+    "fields": {
+        "action_time": "2021-07-13T18:52:40.469Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "b1755761-f5d6-4408-83b4-7fe37b83ff18",
+        "object_repr": "b1755761-f5d6-4408-83b4-7fe37b83ff18",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 84,
+    "fields": {
+        "action_time": "2021-07-13T18:53:23.651Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "fd1a416d-877f-4623-94af-1bc624b1af10",
+        "object_repr": "fd1a416d-877f-4623-94af-1bc624b1af10",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 85,
+    "fields": {
+        "action_time": "2021-07-13T18:54:04.582Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "34d3c48f-a0e2-443e-9a36-2b0b1bd774d1",
+        "object_repr": "34d3c48f-a0e2-443e-9a36-2b0b1bd774d1",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 86,
+    "fields": {
+        "action_time": "2021-07-13T18:54:33.358Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "cac7f231-4673-49ab-b6c7-37c6ad441b74",
+        "object_repr": "cac7f231-4673-49ab-b6c7-37c6ad441b74",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 87,
+    "fields": {
+        "action_time": "2021-07-13T18:54:48.165Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "803331df-4f9b-46cc-9659-bab963c0775a",
+        "object_repr": "803331df-4f9b-46cc-9659-bab963c0775a",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 88,
+    "fields": {
+        "action_time": "2021-07-13T18:55:02.538Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "d37c24f3-4bd6-4fec-92aa-1d57e2eaa6b8",
+        "object_repr": "d37c24f3-4bd6-4fec-92aa-1d57e2eaa6b8",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 89,
+    "fields": {
+        "action_time": "2021-07-13T18:55:20.018Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "193d0ca4-4192-484b-9727-6f3575c73518",
+        "object_repr": "193d0ca4-4192-484b-9727-6f3575c73518",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 90,
+    "fields": {
+        "action_time": "2021-07-13T18:57:29.701Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "28cf37ee-2f38-4607-9d6c-10ded450cfc9",
+        "object_repr": "28cf37ee-2f38-4607-9d6c-10ded450cfc9",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 91,
+    "fields": {
+        "action_time": "2021-07-13T18:57:41.446Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "74e949b9-f747-4ea1-a1d0-3ff8bf47578f",
+        "object_repr": "74e949b9-f747-4ea1-a1d0-3ff8bf47578f",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 92,
+    "fields": {
+        "action_time": "2021-07-13T18:58:19.654Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "205dff74-e071-4de4-aeea-6a50516a312c",
+        "object_repr": "205dff74-e071-4de4-aeea-6a50516a312c",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 93,
+    "fields": {
+        "action_time": "2021-07-13T18:59:44.641Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "f2bcdf73-b6c3-4c4b-b084-fb7a4e44764e",
+        "object_repr": "f2bcdf73-b6c3-4c4b-b084-fb7a4e44764e",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 94,
+    "fields": {
+        "action_time": "2021-07-13T19:00:37.835Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "cfc76bc2-d58b-438e-b9d5-9aae6be1a68a",
+        "object_repr": "cfc76bc2-d58b-438e-b9d5-9aae6be1a68a",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 95,
+    "fields": {
+        "action_time": "2021-07-13T19:00:50.382Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "52a10670-a8ab-4612-b408-6b4fd13478fd",
+        "object_repr": "52a10670-a8ab-4612-b408-6b4fd13478fd",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 96,
+    "fields": {
+        "action_time": "2021-07-13T19:01:24.990Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "a9581250-5672-4364-a811-596fd735d317",
+        "object_repr": "a9581250-5672-4364-a811-596fd735d317",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 97,
+    "fields": {
+        "action_time": "2021-07-13T19:01:46.968Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "8e5b39fb-0f45-4868-b04b-22918661ec93",
+        "object_repr": "8e5b39fb-0f45-4868-b04b-22918661ec93",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 98,
+    "fields": {
+        "action_time": "2021-07-13T19:02:14.415Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "fa18235a-c49f-4263-9309-207265f5b939",
+        "object_repr": "fa18235a-c49f-4263-9309-207265f5b939",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 99,
+    "fields": {
+        "action_time": "2021-07-13T19:02:18.530Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "fa18235a-c49f-4263-9309-207265f5b939",
+        "object_repr": "fa18235a-c49f-4263-9309-207265f5b939",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 100,
+    "fields": {
+        "action_time": "2021-07-13T19:02:31.846Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "db5800c2-9a37-4aa7-8abb-d6cf48918d39",
+        "object_repr": "db5800c2-9a37-4aa7-8abb-d6cf48918d39",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 101,
+    "fields": {
+        "action_time": "2021-07-13T19:02:51.136Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "1ec0567e-cb9c-4009-a78d-91da4806a0e1",
+        "object_repr": "1ec0567e-cb9c-4009-a78d-91da4806a0e1",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 102,
+    "fields": {
+        "action_time": "2021-07-13T19:03:04.369Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "5077d006-0b74-4836-915f-8d87c90f4085",
+        "object_repr": "5077d006-0b74-4836-915f-8d87c90f4085",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 103,
+    "fields": {
+        "action_time": "2021-07-13T19:03:28.519Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "610e5b83-9536-449f-b66c-048a9ee0094f",
+        "object_repr": "610e5b83-9536-449f-b66c-048a9ee0094f",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 104,
+    "fields": {
+        "action_time": "2021-07-13T19:03:46.730Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "cf76829d-0695-4f9e-8387-b4cb03fcb476",
+        "object_repr": "cf76829d-0695-4f9e-8387-b4cb03fcb476",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 105,
+    "fields": {
+        "action_time": "2021-07-13T19:04:14.082Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "fe402d3f-1470-4899-a585-855eb6da07b0",
+        "object_repr": "fe402d3f-1470-4899-a585-855eb6da07b0",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 106,
+    "fields": {
+        "action_time": "2021-07-13T19:04:31.484Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "group_course"
+        ],
+        "object_id": "f5a09c20-f1f7-47f1-8324-16fa511579a2",
+        "object_repr": "f5a09c20-f1f7-47f1-8324-16fa511579a2",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 107,
+    "fields": {
+        "action_time": "2021-07-13T19:06:00.530Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "26f5fbff-5763-4486-bbe0-5a01ddd363cd",
+        "object_repr": "26f5fbff-5763-4486-bbe0-5a01ddd363cd",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 108,
+    "fields": {
+        "action_time": "2021-07-13T19:08:05.269Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "a1cde617-da7f-46d7-8ea7-04a6b04e4da0",
+        "object_repr": "a1cde617-da7f-46d7-8ea7-04a6b04e4da0",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 109,
+    "fields": {
+        "action_time": "2021-07-13T19:10:16.088Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "e7aad52d-5629-43b3-b448-53c3ddbebc12",
+        "object_repr": "e7aad52d-5629-43b3-b448-53c3ddbebc12",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 110,
+    "fields": {
+        "action_time": "2021-07-13T19:10:35.212Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "86bc76e1-89eb-4b1b-b910-3a97a935e7e5",
+        "object_repr": "86bc76e1-89eb-4b1b-b910-3a97a935e7e5",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 111,
+    "fields": {
+        "action_time": "2021-07-13T19:11:16.751Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "b302fd51-16ef-46e1-ac16-aa712f06dce3",
+        "object_repr": "b302fd51-16ef-46e1-ac16-aa712f06dce3",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 112,
+    "fields": {
+        "action_time": "2021-07-13T19:11:28.618Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "31ae429e-deb0-4d2c-a804-0a41c076d040",
+        "object_repr": "31ae429e-deb0-4d2c-a804-0a41c076d040",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 113,
+    "fields": {
+        "action_time": "2021-07-13T19:11:37.778Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "1558ac49-8a2d-4874-b869-bb018dcd4c78",
+        "object_repr": "1558ac49-8a2d-4874-b869-bb018dcd4c78",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 114,
+    "fields": {
+        "action_time": "2021-07-13T19:12:08.984Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "d04bd2b9-bb42-4bbb-a069-e47081728a75",
+        "object_repr": "d04bd2b9-bb42-4bbb-a069-e47081728a75",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 115,
+    "fields": {
+        "action_time": "2021-07-13T19:12:18.278Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "d0df729b-cce7-4220-a32a-bc1428634670",
+        "object_repr": "d0df729b-cce7-4220-a32a-bc1428634670",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 116,
+    "fields": {
+        "action_time": "2021-07-13T19:12:25.745Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "048c71c8-c16b-4717-886a-6629fa115b02",
+        "object_repr": "048c71c8-c16b-4717-886a-6629fa115b02",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 117,
+    "fields": {
+        "action_time": "2021-07-13T19:12:34.663Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "4d13c3cb-0f63-41c1-8960-5183ecbd2ee4",
+        "object_repr": "4d13c3cb-0f63-41c1-8960-5183ecbd2ee4",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 118,
+    "fields": {
+        "action_time": "2021-07-13T19:12:42.967Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "9e63e7d1-e5fd-47c3-9d4e-d7e5d141a945",
+        "object_repr": "9e63e7d1-e5fd-47c3-9d4e-d7e5d141a945",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 119,
+    "fields": {
+        "action_time": "2021-07-13T19:12:54.116Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "dd2a1856-a204-4501-80d8-7a98ce7a7200",
+        "object_repr": "dd2a1856-a204-4501-80d8-7a98ce7a7200",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 120,
+    "fields": {
+        "action_time": "2021-07-13T19:13:02.775Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "c39cde82-80a4-429b-a950-a3afadffbae7",
+        "object_repr": "c39cde82-80a4-429b-a950-a3afadffbae7",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 121,
+    "fields": {
+        "action_time": "2021-07-13T19:13:09.609Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "c397209f-4dbd-4e35-9da9-0331079fa8fa",
+        "object_repr": "c397209f-4dbd-4e35-9da9-0331079fa8fa",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 122,
+    "fields": {
+        "action_time": "2021-07-13T19:13:18.937Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "6e5a416a-210e-4855-8f67-321b39193657",
+        "object_repr": "6e5a416a-210e-4855-8f67-321b39193657",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 123,
+    "fields": {
+        "action_time": "2021-07-13T19:13:56.924Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "5916c5da-902c-4d73-a270-d666d1946a35",
+        "object_repr": "5916c5da-902c-4d73-a270-d666d1946a35",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 124,
+    "fields": {
+        "action_time": "2021-07-13T19:14:07.219Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "a3cb9f49-9d08-4102-977b-48a28c8f7a64",
+        "object_repr": "a3cb9f49-9d08-4102-977b-48a28c8f7a64",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 125,
+    "fields": {
+        "action_time": "2021-07-13T19:14:14.098Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "e09f4e0c-be09-40e4-964c-d33060be606c",
+        "object_repr": "e09f4e0c-be09-40e4-964c-d33060be606c",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 126,
+    "fields": {
+        "action_time": "2021-07-13T19:14:24.022Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "bfa546e0-871a-4436-a8d5-c7d2b96e6999",
+        "object_repr": "bfa546e0-871a-4436-a8d5-c7d2b96e6999",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 127,
+    "fields": {
+        "action_time": "2021-07-13T19:14:56.046Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "3f0d9598-5e45-4ac7-98fd-685b743a5e6f",
+        "object_repr": "3f0d9598-5e45-4ac7-98fd-685b743a5e6f",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 128,
+    "fields": {
+        "action_time": "2021-07-13T19:15:11.058Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "e3fbe0ce-5e89-4385-ab6e-dd4087951219",
+        "object_repr": "e3fbe0ce-5e89-4385-ab6e-dd4087951219",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 129,
+    "fields": {
+        "action_time": "2021-07-13T19:15:21.098Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "2b3297d4-4254-4d90-b9f1-36d9c9656991",
+        "object_repr": "2b3297d4-4254-4d90-b9f1-36d9c9656991",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 130,
+    "fields": {
+        "action_time": "2021-07-13T19:15:28.777Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "82dec364-68c9-43d9-b0bf-6f6af8b6ef2e",
+        "object_repr": "82dec364-68c9-43d9-b0bf-6f6af8b6ef2e",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 131,
+    "fields": {
+        "action_time": "2021-07-13T19:15:38.442Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "316f240d-30a8-4699-ac0e-12c8794b05e6",
+        "object_repr": "316f240d-30a8-4699-ac0e-12c8794b05e6",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 132,
+    "fields": {
+        "action_time": "2021-07-13T19:15:46.609Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "e2ea052a-a221-40ac-a45c-556522b3c626",
+        "object_repr": "e2ea052a-a221-40ac-a45c-556522b3c626",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 133,
+    "fields": {
+        "action_time": "2021-07-13T19:15:54.146Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "d0edae39-4f45-4359-87e6-47a203e9384b",
+        "object_repr": "d0edae39-4f45-4359-87e6-47a203e9384b",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 134,
+    "fields": {
+        "action_time": "2021-07-13T19:16:01.382Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "23225fce-71a0-47e6-ad24-b413adc9f33c",
+        "object_repr": "23225fce-71a0-47e6-ad24-b413adc9f33c",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 135,
+    "fields": {
+        "action_time": "2021-07-13T19:16:07.970Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "f74524af-7612-43be-b0f2-ab95b68390e4",
+        "object_repr": "f74524af-7612-43be-b0f2-ab95b68390e4",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 136,
+    "fields": {
+        "action_time": "2021-07-13T19:16:13.801Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "4e168182-810c-41a5-9cb9-aa5936310cbe",
+        "object_repr": "4e168182-810c-41a5-9cb9-aa5936310cbe",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 137,
+    "fields": {
+        "action_time": "2021-07-13T19:16:19.881Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "8692c6d4-bf20-418f-85d1-2df0c1830d55",
+        "object_repr": "8692c6d4-bf20-418f-85d1-2df0c1830d55",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 138,
+    "fields": {
+        "action_time": "2021-07-13T19:16:26.525Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "38baab35-2a1b-40f6-a8ee-3affc25c9d44",
+        "object_repr": "38baab35-2a1b-40f6-a8ee-3affc25c9d44",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 139,
+    "fields": {
+        "action_time": "2021-07-13T19:16:34.443Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "42b01036-2345-4586-b6d2-f27798d466cd",
+        "object_repr": "42b01036-2345-4586-b6d2-f27798d466cd",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 140,
+    "fields": {
+        "action_time": "2021-07-13T19:16:40.499Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "635ed299-5d54-45c1-86e3-c4c75583e688",
+        "object_repr": "635ed299-5d54-45c1-86e3-c4c75583e688",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 141,
+    "fields": {
+        "action_time": "2021-07-13T19:16:46.372Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "8e897b5f-b8b7-4fcf-8df7-cd389b0fb97f",
+        "object_repr": "8e897b5f-b8b7-4fcf-8df7-cd389b0fb97f",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 142,
+    "fields": {
+        "action_time": "2021-07-13T19:16:54.975Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "1f8a4fa2-9149-433b-851e-2ca2c54ef406",
+        "object_repr": "1f8a4fa2-9149-433b-851e-2ca2c54ef406",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 143,
+    "fields": {
+        "action_time": "2021-07-13T19:17:19.911Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "1f8a4fa2-9149-433b-851e-2ca2c54ef406",
+        "object_repr": "1f8a4fa2-9149-433b-851e-2ca2c54ef406",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 144,
+    "fields": {
+        "action_time": "2021-07-13T19:17:19.925Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "42b01036-2345-4586-b6d2-f27798d466cd",
+        "object_repr": "42b01036-2345-4586-b6d2-f27798d466cd",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 145,
+    "fields": {
+        "action_time": "2021-07-13T19:17:46.600Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "b07832bf-a21b-4995-9219-1203aa4d5cc5",
+        "object_repr": "b07832bf-a21b-4995-9219-1203aa4d5cc5",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 146,
+    "fields": {
+        "action_time": "2021-07-13T19:17:53.451Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "d40afb15-7c63-4043-8e46-edcf4ca211eb",
+        "object_repr": "d40afb15-7c63-4043-8e46-edcf4ca211eb",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 147,
+    "fields": {
+        "action_time": "2021-07-13T19:17:59.709Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "43e904ee-7b3f-448c-a3ad-5b4489ac1534",
+        "object_repr": "43e904ee-7b3f-448c-a3ad-5b4489ac1534",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 148,
+    "fields": {
+        "action_time": "2021-07-13T19:18:05.272Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "35cb8ddb-b126-433c-8197-3e771eb640bb",
+        "object_repr": "35cb8ddb-b126-433c-8197-3e771eb640bb",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 149,
+    "fields": {
+        "action_time": "2021-07-13T19:18:11.052Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "c5f99bbb-9eb4-4cff-a901-eee2027120ec",
+        "object_repr": "c5f99bbb-9eb4-4cff-a901-eee2027120ec",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 150,
+    "fields": {
+        "action_time": "2021-07-13T19:18:17.020Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "1168820a-3d7e-49c9-879f-fb57b2909f55",
+        "object_repr": "1168820a-3d7e-49c9-879f-fb57b2909f55",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 151,
+    "fields": {
+        "action_time": "2021-07-13T19:18:23.085Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "f68e0024-bc3c-435d-8578-47e228293333",
+        "object_repr": "f68e0024-bc3c-435d-8578-47e228293333",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 152,
+    "fields": {
+        "action_time": "2021-07-13T19:18:28.163Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "891cdfd6-7f82-41dc-99a4-f4a75db46da3",
+        "object_repr": "891cdfd6-7f82-41dc-99a4-f4a75db46da3",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 153,
+    "fields": {
+        "action_time": "2021-07-13T19:18:34.324Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "0bc55ae7-6a71-4044-999d-250ac8edd1f7",
+        "object_repr": "0bc55ae7-6a71-4044-999d-250ac8edd1f7",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 154,
+    "fields": {
+        "action_time": "2021-07-13T19:18:39.808Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "c7ba7a8c-d245-4caf-944a-a334ae4befaf",
+        "object_repr": "c7ba7a8c-d245-4caf-944a-a334ae4befaf",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 155,
+    "fields": {
+        "action_time": "2021-07-13T19:18:45.291Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "6a7a2741-cf77-4234-aa61-73a24ac264ed",
+        "object_repr": "6a7a2741-cf77-4234-aa61-73a24ac264ed",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 156,
+    "fields": {
+        "action_time": "2021-07-13T19:19:55.486Z",
+        "user": [
+            "ssmahajan@mitaoe.ac.in"
+        ],
+        "content_type": [
+            "User",
+            "branch_semester"
+        ],
+        "object_id": "e09f4e0c-be09-40e4-964c-d33060be606c",
+        "object_repr": "e09f4e0c-be09-40e4-964c-d33060be606c",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 157,
+    "fields": {
+        "action_time": "2021-07-14T16:21:42.904Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "0120190203",
+        "object_repr": "vajadhav@mitaoe.ac.in",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 158,
+    "fields": {
+        "action_time": "2021-07-14T16:22:02.971Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "teacher",
+            "teacher_course"
+        ],
+        "object_id": "5cde3d26-24f1-44b4-9b11-55d0fc986503",
+        "object_repr": "5cde3d26-24f1-44b4-9b11-55d0fc986503",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 159,
+    "fields": {
+        "action_time": "2021-07-14T16:22:21.547Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "teacher",
+            "teacher_course"
+        ],
+        "object_id": "60fa8146-a371-4d65-9839-b1b03d00fdc9",
+        "object_repr": "60fa8146-a371-4d65-9839-b1b03d00fdc9",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 160,
+    "fields": {
+        "action_time": "2021-07-14T16:23:30.273Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "teacher",
+            "teacher_course"
+        ],
+        "object_id": "6786da10-d7fd-4d4b-865d-ec512c2ee4eb",
+        "object_repr": "6786da10-d7fd-4d4b-865d-ec512c2ee4eb",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 161,
+    "fields": {
+        "action_time": "2021-07-14T16:55:13.211Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190210",
+        "object_repr": "smriti@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Active User\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 162,
+    "fields": {
+        "action_time": "2021-07-14T16:55:20.177Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190209",
+        "object_repr": "radha@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Active User\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 163,
+    "fields": {
+        "action_time": "2021-07-14T16:55:26.959Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190208",
+        "object_repr": "sudarashan@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Active User\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 164,
+    "fields": {
+        "action_time": "2021-07-14T16:55:34.571Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190205",
+        "object_repr": "vedantika@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Active User\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 165,
+    "fields": {
+        "action_time": "2021-07-14T16:56:15.375Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190210",
+        "object_repr": "smriti@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 166,
+    "fields": {
+        "action_time": "2021-07-14T16:56:15.564Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190209",
+        "object_repr": "radha@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 167,
+    "fields": {
+        "action_time": "2021-07-14T16:56:15.648Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190208",
+        "object_repr": "sudarashan@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 168,
+    "fields": {
+        "action_time": "2021-07-14T16:56:15.722Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190207",
+        "object_repr": "shreyansh@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 169,
+    "fields": {
+        "action_time": "2021-07-14T16:56:15.840Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190206",
+        "object_repr": "praktan@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 170,
+    "fields": {
+        "action_time": "2021-07-14T16:56:15.914Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190205",
+        "object_repr": "vedantika@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 171,
+    "fields": {
+        "action_time": "2021-07-14T16:56:15.987Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190204",
+        "object_repr": "nikhil@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 172,
+    "fields": {
+        "action_time": "2021-07-14T16:56:16.117Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190203",
+        "object_repr": "lalit@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 173,
+    "fields": {
+        "action_time": "2021-07-14T16:56:16.191Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190216",
+        "object_repr": "patil@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 174,
+    "fields": {
+        "action_time": "2021-07-14T16:56:16.265Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190215",
+        "object_repr": "mayurpatil@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 175,
+    "fields": {
+        "action_time": "2021-07-14T16:56:16.338Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190214",
+        "object_repr": "more@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 176,
+    "fields": {
+        "action_time": "2021-07-14T16:56:16.413Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190213",
+        "object_repr": "sonavane@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 177,
+    "fields": {
+        "action_time": "2021-07-14T16:56:16.486Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190212",
+        "object_repr": "ghuse@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 178,
+    "fields": {
+        "action_time": "2021-07-14T16:56:16.638Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190211",
+        "object_repr": "badre@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 179,
+    "fields": {
+        "action_time": "2021-07-14T16:56:16.947Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190314",
+        "object_repr": "sumit@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 180,
+    "fields": {
+        "action_time": "2021-07-14T16:56:17.108Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190313",
+        "object_repr": "vaishnavi@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 181,
+    "fields": {
+        "action_time": "2021-07-14T16:58:04.191Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190210",
+        "object_repr": "smriti@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Active User\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 182,
+    "fields": {
+        "action_time": "2021-07-14T16:58:10.737Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190209",
+        "object_repr": "radha@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Active User\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 183,
+    "fields": {
+        "action_time": "2021-07-14T16:58:17.377Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190208",
+        "object_repr": "sudarashan@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Active User\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 184,
+    "fields": {
+        "action_time": "2021-07-14T16:58:41.601Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190205",
+        "object_repr": "vedantika@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Active User\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 185,
+    "fields": {
+        "action_time": "2021-07-14T16:58:48.773Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190203",
+        "object_repr": "lalit@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Active User\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 186,
+    "fields": {
+        "action_time": "2021-07-14T16:58:57.247Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190213",
+        "object_repr": "sonavane@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Active User\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 187,
+    "fields": {
+        "action_time": "2021-07-14T16:59:05.538Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190211",
+        "object_repr": "badre@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Active User\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 188,
+    "fields": {
+        "action_time": "2021-07-14T16:59:13.814Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190314",
+        "object_repr": "sumit@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Active User\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 189,
+    "fields": {
+        "action_time": "2021-07-14T16:59:25.227Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190313",
+        "object_repr": "vaishnavi@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Active User\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 190,
+    "fields": {
+        "action_time": "2021-07-14T17:02:16.247Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190210",
+        "object_repr": "smriti@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 191,
+    "fields": {
+        "action_time": "2021-07-14T17:02:16.370Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190209",
+        "object_repr": "radha@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 192,
+    "fields": {
+        "action_time": "2021-07-14T17:02:16.522Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190208",
+        "object_repr": "sudarashan@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 193,
+    "fields": {
+        "action_time": "2021-07-14T17:02:16.841Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190207",
+        "object_repr": "shreyansh@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 194,
+    "fields": {
+        "action_time": "2021-07-14T17:02:17.003Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190206",
+        "object_repr": "praktan@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 195,
+    "fields": {
+        "action_time": "2021-07-14T17:02:17.077Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190205",
+        "object_repr": "vedantika@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 196,
+    "fields": {
+        "action_time": "2021-07-14T17:02:17.151Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190204",
+        "object_repr": "nikhil@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 197,
+    "fields": {
+        "action_time": "2021-07-14T17:02:17.224Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190203",
+        "object_repr": "lalit@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 198,
+    "fields": {
+        "action_time": "2021-07-14T17:02:17.299Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190216",
+        "object_repr": "patil@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 199,
+    "fields": {
+        "action_time": "2021-07-14T17:02:17.372Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190215",
+        "object_repr": "mayurpatil@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 200,
+    "fields": {
+        "action_time": "2021-07-14T17:02:17.468Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190214",
+        "object_repr": "more@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 201,
+    "fields": {
+        "action_time": "2021-07-14T17:02:17.542Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190213",
+        "object_repr": "sonavane@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 202,
+    "fields": {
+        "action_time": "2021-07-14T17:02:17.618Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190212",
+        "object_repr": "ghuse@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 203,
+    "fields": {
+        "action_time": "2021-07-14T17:02:17.702Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190211",
+        "object_repr": "badre@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 204,
+    "fields": {
+        "action_time": "2021-07-14T17:02:17.864Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190314",
+        "object_repr": "sumit@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 205,
+    "fields": {
+        "action_time": "2021-07-14T17:02:18.027Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190313",
+        "object_repr": "vaishnavi@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 206,
+    "fields": {
+        "action_time": "2021-07-14T17:06:48.978Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190210",
+        "object_repr": "smriti@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 207,
+    "fields": {
+        "action_time": "2021-07-14T17:06:49.136Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190209",
+        "object_repr": "radha@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 208,
+    "fields": {
+        "action_time": "2021-07-14T17:06:49.209Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190208",
+        "object_repr": "sudarashan@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 209,
+    "fields": {
+        "action_time": "2021-07-14T17:06:49.283Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190207",
+        "object_repr": "shreyansh@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 210,
+    "fields": {
+        "action_time": "2021-07-14T17:06:49.357Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190206",
+        "object_repr": "praktan@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 211,
+    "fields": {
+        "action_time": "2021-07-14T17:06:49.430Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190205",
+        "object_repr": "vedantika@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 212,
+    "fields": {
+        "action_time": "2021-07-14T17:06:49.651Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190204",
+        "object_repr": "nikhil@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 213,
+    "fields": {
+        "action_time": "2021-07-14T17:06:49.725Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190203",
+        "object_repr": "lalit@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 214,
+    "fields": {
+        "action_time": "2021-07-14T17:06:49.799Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190216",
+        "object_repr": "patil@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 215,
+    "fields": {
+        "action_time": "2021-07-14T17:06:49.873Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190215",
+        "object_repr": "mayurpatil@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 216,
+    "fields": {
+        "action_time": "2021-07-14T17:06:49.946Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190214",
+        "object_repr": "more@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 217,
+    "fields": {
+        "action_time": "2021-07-14T17:06:50.033Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190213",
+        "object_repr": "sonavane@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 218,
+    "fields": {
+        "action_time": "2021-07-14T17:06:50.195Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190212",
+        "object_repr": "ghuse@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 219,
+    "fields": {
+        "action_time": "2021-07-14T17:06:50.502Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190211",
+        "object_repr": "badre@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 220,
+    "fields": {
+        "action_time": "2021-07-14T17:06:50.633Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190314",
+        "object_repr": "sumit@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 221,
+    "fields": {
+        "action_time": "2021-07-14T17:06:50.716Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190313",
+        "object_repr": "vaishnavi@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 222,
+    "fields": {
+        "action_time": "2021-07-14T17:54:17.301Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "student",
+            "student_group"
+        ],
+        "object_id": "6152bee3-f988-4650-be86-0bb124d28763",
+        "object_repr": "120190314",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 223,
+    "fields": {
+        "action_time": "2021-07-14T17:54:37.672Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "student",
+            "student_group"
+        ],
+        "object_id": "24eed9f4-4781-4b4a-982a-58e642860032",
+        "object_repr": "120190314",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 224,
+    "fields": {
+        "action_time": "2021-07-14T17:55:10.714Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "student",
+            "student_group"
+        ],
+        "object_id": "d225cc6a-4bc8-4ab9-aab1-e3631d8a2b11",
+        "object_repr": "120190314",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 225,
+    "fields": {
+        "action_time": "2021-07-14T17:55:27.946Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "student",
+            "student_group"
+        ],
+        "object_id": "908ab3c8-1f64-4860-845b-4be177d3025a",
+        "object_repr": "0120190202",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 226,
+    "fields": {
+        "action_time": "2021-07-14T18:00:11.461Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "student",
+            "student_group"
+        ],
+        "object_id": "d225cc6a-4bc8-4ab9-aab1-e3631d8a2b11",
+        "object_repr": "120190314",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 227,
+    "fields": {
+        "action_time": "2021-07-14T18:00:11.624Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "student",
+            "student_group"
+        ],
+        "object_id": "908ab3c8-1f64-4860-845b-4be177d3025a",
+        "object_repr": "0120190202",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 228,
+    "fields": {
+        "action_time": "2021-07-14T18:00:11.697Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "student",
+            "student_group"
+        ],
+        "object_id": "6152bee3-f988-4650-be86-0bb124d28763",
+        "object_repr": "120190314",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 229,
+    "fields": {
+        "action_time": "2021-07-14T18:00:11.772Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "student",
+            "student_group"
+        ],
+        "object_id": "24eed9f4-4781-4b4a-982a-58e642860032",
+        "object_repr": "120190314",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 230,
+    "fields": {
+        "action_time": "2021-07-14T18:02:10.762Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190210",
+        "object_repr": "smriti@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Branch\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 231,
+    "fields": {
+        "action_time": "2021-07-14T18:03:35.886Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190215",
+        "object_repr": "mayurpatil@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Branch\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 232,
+    "fields": {
+        "action_time": "2021-07-14T18:04:00.042Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190214",
+        "object_repr": "more@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Branch\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 233,
+    "fields": {
+        "action_time": "2021-07-14T18:04:21.383Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190216",
+        "object_repr": "patil@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Branch\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 234,
+    "fields": {
+        "action_time": "2021-07-14T18:05:46.462Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190213",
+        "object_repr": "sonavane@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Branch\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 235,
+    "fields": {
+        "action_time": "2021-07-14T18:06:03.711Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190212",
+        "object_repr": "ghuse@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Branch\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 236,
+    "fields": {
+        "action_time": "2021-07-14T18:07:39.354Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190211",
+        "object_repr": "badre@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 237,
+    "fields": {
+        "action_time": "2021-07-14T18:07:39.521Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190314",
+        "object_repr": "sumit@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 238,
+    "fields": {
+        "action_time": "2021-07-14T18:07:39.595Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190313",
+        "object_repr": "vaishnavi@mitaoe.ac.in",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 239,
+    "fields": {
+        "action_time": "2021-07-14T18:08:05.867Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "0120190312",
+        "object_repr": "ssmahajan@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Branch\", \"Role of user\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 240,
+    "fields": {
+        "action_time": "2021-07-14T18:08:29.349Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190209",
+        "object_repr": "radha@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Branch\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 241,
+    "fields": {
+        "action_time": "2021-07-14T18:08:39.590Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190208",
+        "object_repr": "sudarashan@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Branch\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 242,
+    "fields": {
+        "action_time": "2021-07-14T18:08:50.822Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190207",
+        "object_repr": "shreyansh@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Branch\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 243,
+    "fields": {
+        "action_time": "2021-07-14T18:09:24.812Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190206",
+        "object_repr": "prkhatavkar@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Email\", \"Last Name\", \"Branch\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 244,
+    "fields": {
+        "action_time": "2021-07-14T18:09:39.057Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190205",
+        "object_repr": "vedantika@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Branch\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 245,
+    "fields": {
+        "action_time": "2021-07-14T18:09:52.554Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190204",
+        "object_repr": "nikhil@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First Name\", \"Branch\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 246,
+    "fields": {
+        "action_time": "2021-07-14T18:10:07.374Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "120190203",
+        "object_repr": "lalit@mitaoe.ac.in",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Branch\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 247,
+    "fields": {
+        "action_time": "2021-07-14T18:10:21.604Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "User",
+            "user"
+        ],
+        "object_id": "0120190202",
+        "object_repr": "vaishnavijahav@gmail.com",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Branch\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 248,
+    "fields": {
+        "action_time": "2021-07-14T18:11:25.376Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "student",
+            "student_group"
+        ],
+        "object_id": "beba7c24-1ec9-4276-8a0a-7095ba2a7a1a",
+        "object_repr": "0120190312",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 249,
+    "fields": {
+        "action_time": "2021-07-14T18:11:56.663Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "student",
+            "student_group"
+        ],
+        "object_id": "239d18ce-f0eb-4720-be88-764f9ecd8fee",
+        "object_repr": "0120190312",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 250,
+    "fields": {
+        "action_time": "2021-07-14T18:12:17.098Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "student",
+            "student_group"
+        ],
+        "object_id": "83d4d6be-0b2d-431b-896b-e76e82b32f45",
+        "object_repr": "0120190312",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 251,
+    "fields": {
+        "action_time": "2021-07-14T18:12:34.335Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "student",
+            "student_group"
+        ],
+        "object_id": "0fc7dae2-51a8-4606-961c-734466460637",
+        "object_repr": "120190204",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 252,
+    "fields": {
+        "action_time": "2021-07-14T18:12:48.121Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "student",
+            "student_group"
+        ],
+        "object_id": "781849dc-b5ab-4d55-9134-4ba2c475bdd8",
+        "object_repr": "120190204",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 253,
+    "fields": {
+        "action_time": "2021-07-14T18:13:00.800Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "student",
+            "student_group"
+        ],
+        "object_id": "56e4015c-2d8e-4eec-acf6-c2f5c17f0b63",
+        "object_repr": "120190203",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 254,
+    "fields": {
+        "action_time": "2021-07-14T18:13:13.245Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "student",
+            "student_group"
+        ],
+        "object_id": "c6305be9-4e0f-4246-bd85-c9149c83df51",
+        "object_repr": "120190203",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 255,
+    "fields": {
+        "action_time": "2021-07-14T18:13:26.801Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "student",
+            "student_group"
+        ],
+        "object_id": "240eaaf1-8202-4e8a-9ef0-269a496fa702",
+        "object_repr": "120190203",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 256,
+    "fields": {
+        "action_time": "2021-07-14T18:13:42.717Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "student",
+            "student_group"
+        ],
+        "object_id": "7ea7f89a-e305-4f07-acc5-28ce7a510e1f",
+        "object_repr": "0120190202",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 257,
+    "fields": {
+        "action_time": "2021-07-14T18:13:54.597Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "student",
+            "student_group"
+        ],
+        "object_id": "18a83092-47c9-4891-9e26-8e2c99aaac2a",
+        "object_repr": "0120190202",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 258,
+    "fields": {
+        "action_time": "2021-07-14T18:14:07.455Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "student",
+            "student_group"
+        ],
+        "object_id": "e92ff2a5-8cba-42f9-b342-dfdb58f8af97",
+        "object_repr": "0120190202",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 259,
+    "fields": {
+        "action_time": "2021-07-14T18:14:27.124Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "student",
+            "student_group"
+        ],
+        "object_id": "c6305be9-4e0f-4246-bd85-c9149c83df51",
+        "object_repr": "120190203",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 260,
+    "fields": {
+        "action_time": "2021-07-14T18:16:51.419Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "teacher",
+            "teacher_course"
+        ],
+        "object_id": "ea1e76be-412b-4998-9126-5e969387f4e2",
+        "object_repr": "ea1e76be-412b-4998-9126-5e969387f4e2",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 261,
+    "fields": {
+        "action_time": "2021-07-14T18:17:13.980Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "teacher",
+            "teacher_course"
+        ],
+        "object_id": "43257a56-5454-47e5-b8be-68a115dd2042",
+        "object_repr": "43257a56-5454-47e5-b8be-68a115dd2042",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 262,
+    "fields": {
+        "action_time": "2021-07-14T18:17:34.108Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "teacher",
+            "teacher_course"
+        ],
+        "object_id": "e4c310fe-08d7-4b97-8dac-cd12038ea16d",
+        "object_repr": "e4c310fe-08d7-4b97-8dac-cd12038ea16d",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 263,
+    "fields": {
+        "action_time": "2021-07-16T16:32:38.899Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "assignment",
+            "assignment"
+        ],
+        "object_id": "c758c318-0fab-4a9b-aa1f-b10541660808",
+        "object_repr": "Assignment 1",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 264,
+    "fields": {
+        "action_time": "2021-07-16T16:33:16.782Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "assignment",
+            "assignment"
+        ],
+        "object_id": "d3c3d3be-2b22-496a-8ff1-1d9cea9164bd",
+        "object_repr": "Assignment 2",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 265,
+    "fields": {
+        "action_time": "2021-07-16T16:34:08.332Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "assignment",
+            "assignment"
+        ],
+        "object_id": "3b069897-31e9-4419-ba7c-dff6a22af743",
+        "object_repr": "Assignment 3",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 266,
+    "fields": {
+        "action_time": "2021-07-16T17:19:50.276Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "assignment",
+            "group_assignment"
+        ],
+        "object_id": "1",
+        "object_repr": "Group_Assignment object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 267,
+    "fields": {
+        "action_time": "2021-07-16T17:30:00.457Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "teacher",
+            "teacher_course"
+        ],
+        "object_id": "ea1e76be-412b-4998-9126-5e969387f4e2",
+        "object_repr": "ea1e76be-412b-4998-9126-5e969387f4e2",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Group_course_fk\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 268,
+    "fields": {
+        "action_time": "2021-07-16T17:31:34.843Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "assignment",
+            "group_assignment"
+        ],
+        "object_id": "2",
+        "object_repr": "Group_Assignment object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 269,
+    "fields": {
+        "action_time": "2021-07-16T17:31:47.563Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "assignment",
+            "group_assignment"
+        ],
+        "object_id": "1",
+        "object_repr": "Group_Assignment object (1)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 270,
+    "fields": {
+        "action_time": "2021-07-16T17:32:19.645Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "assignment",
+            "group_assignment"
+        ],
+        "object_id": "3",
+        "object_repr": "Group_Assignment object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 271,
+    "fields": {
+        "action_time": "2021-07-16T17:33:44.104Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "assignment",
+            "group_assignment"
+        ],
+        "object_id": "4",
+        "object_repr": "Group_Assignment object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 272,
+    "fields": {
+        "action_time": "2021-07-16T17:33:58.994Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "assignment",
+            "group_assignment"
+        ],
+        "object_id": "2",
+        "object_repr": "Group_Assignment object (2)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Assignment_fk\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 273,
+    "fields": {
+        "action_time": "2021-07-16T17:34:30.305Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "assignment",
+            "group_assignment"
+        ],
+        "object_id": "5",
+        "object_repr": "Group_Assignment object (5)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 274,
+    "fields": {
+        "action_time": "2021-07-16T17:34:51.928Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "assignment",
+            "group_assignment"
+        ],
+        "object_id": "5",
+        "object_repr": "Group_Assignment object (5)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Assignment_fk\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 275,
+    "fields": {
+        "action_time": "2021-07-16T17:35:13.192Z",
+        "user": [
+            "vaishnavijahav@gmail.com"
+        ],
+        "content_type": [
+            "assignment",
+            "group_assignment"
+        ],
+        "object_id": "6",
+        "object_repr": "Group_Assignment object (6)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}
+]
